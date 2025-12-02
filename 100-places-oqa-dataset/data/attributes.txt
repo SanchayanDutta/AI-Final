@@ -1,0 +1,13 @@
+capital_city
+city
+coastal
+cold
+cultural_site
+desert
+island
+mountainous
+natural_site
+population_large
+tourist_hotspot
+tropical
+unesco

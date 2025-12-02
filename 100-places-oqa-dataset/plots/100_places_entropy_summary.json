@@ -1,0 +1,322 @@
+[
+  {
+    "model": "Claude Sonnet 4.5",
+    "step": 1,
+    "entropy_bits_mean": 6.643856189774725,
+    "entropy_bits_std": 1e-15,
+    "entropy_bits_lo": 6.643856189774724,
+    "entropy_bits_hi": 6.643856189774724
+  },
+  {
+    "model": "Claude Sonnet 4.5",
+    "step": 2,
+    "entropy_bits_mean": 6.285163758528651,
+    "entropy_bits_std": 0.026268352774626,
+    "entropy_bits_lo": 6.22881869049588,
+    "entropy_bits_hi": 6.321928094887363
+  },
+  {
+    "model": "Claude Sonnet 4.5",
+    "step": 3,
+    "entropy_bits_mean": 5.405494836079265,
+    "entropy_bits_std": 0.037888461690009,
+    "entropy_bits_lo": 5.357552004618084,
+    "entropy_bits_hi": 5.459431618637297
+  },
+  {
+    "model": "Claude Sonnet 4.5",
+    "step": 4,
+    "entropy_bits_mean": 4.46377763724934,
+    "entropy_bits_std": 0.079596278636901,
+    "entropy_bits_lo": 4.321928094887363,
+    "entropy_bits_hi": 4.584962500721156
+  },
+  {
+    "model": "Claude Sonnet 4.5",
+    "step": 5,
+    "entropy_bits_mean": 2.995455984699983,
+    "entropy_bits_std": 0.114789713646622,
+    "entropy_bits_lo": 2.807354922057604,
+    "entropy_bits_hi": 3.169925001442312
+  },
+  {
+    "model": "Claude Sonnet 4.5",
+    "step": 6,
+    "entropy_bits_mean": 1.584962500721156,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 1.584962500721156,
+    "entropy_bits_hi": 1.584962500721156
+  },
+  {
+    "model": "Claude Sonnet 4.5",
+    "step": 7,
+    "entropy_bits_mean": 1.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 1.0,
+    "entropy_bits_hi": 1.0
+  },
+  {
+    "model": "Claude Sonnet 4.5",
+    "step": 8,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "GPT 5",
+    "step": 1,
+    "entropy_bits_mean": 6.643856189774725,
+    "entropy_bits_std": 1e-15,
+    "entropy_bits_lo": 6.643856189774724,
+    "entropy_bits_hi": 6.643856189774724
+  },
+  {
+    "model": "GPT 5",
+    "step": 2,
+    "entropy_bits_mean": 6.198485408192785,
+    "entropy_bits_std": 0.058926256401318,
+    "entropy_bits_lo": 6.066089190457772,
+    "entropy_bits_hi": 6.266786540694901
+  },
+  {
+    "model": "GPT 5",
+    "step": 3,
+    "entropy_bits_mean": 5.310509976312801,
+    "entropy_bits_std": 0.040154583626927,
+    "entropy_bits_lo": 5.247927513443585,
+    "entropy_bits_hi": 5.357552004618084
+  },
+  {
+    "model": "GPT 5",
+    "step": 4,
+    "entropy_bits_mean": 4.161232820604044,
+    "entropy_bits_std": 0.043507318382441,
+    "entropy_bits_lo": 4.087462841250339,
+    "entropy_bits_hi": 4.247927513443585
+  },
+  {
+    "model": "GPT 5",
+    "step": 5,
+    "entropy_bits_mean": 2.576834103821687,
+    "entropy_bits_std": 0.153827912642309,
+    "entropy_bits_lo": 2.321928094887362,
+    "entropy_bits_hi": 2.807354922057604
+  },
+  {
+    "model": "GPT 5",
+    "step": 6,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "GPT 5",
+    "step": 7,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "GPT 5",
+    "step": 8,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "step": 1,
+    "entropy_bits_mean": 6.643856189774725,
+    "entropy_bits_std": 1e-15,
+    "entropy_bits_lo": 6.643856189774724,
+    "entropy_bits_hi": 6.643856189774724
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "step": 2,
+    "entropy_bits_mean": 6.195145467292969,
+    "entropy_bits_std": 0.04153236623602,
+    "entropy_bits_lo": 6.108524456778169,
+    "entropy_bits_hi": 6.266786540694901
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "step": 3,
+    "entropy_bits_mean": 5.172992365311494,
+    "entropy_bits_std": 0.051918205161268,
+    "entropy_bits_lo": 5.087462841250339,
+    "entropy_bits_hi": 5.247927513443585
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "step": 4,
+    "entropy_bits_mean": 4.333280533590949,
+    "entropy_bits_std": 0.09226790127976,
+    "entropy_bits_lo": 4.247927513443585,
+    "entropy_bits_hi": 4.523561956057013
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "step": 5,
+    "entropy_bits_mean": 2.801405453378794,
+    "entropy_bits_std": 0.131448495035523,
+    "entropy_bits_lo": 2.584962500721156,
+    "entropy_bits_hi": 3.0
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "step": 6,
+    "entropy_bits_mean": 1.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 1.0,
+    "entropy_bits_hi": 1.0
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "step": 7,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "step": 8,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "Grok 4",
+    "step": 1,
+    "entropy_bits_mean": 6.643856189774725,
+    "entropy_bits_std": 1e-15,
+    "entropy_bits_lo": 6.643856189774724,
+    "entropy_bits_hi": 6.643856189774724
+  },
+  {
+    "model": "Grok 4",
+    "step": 2,
+    "entropy_bits_mean": 6.349099859555483,
+    "entropy_bits_std": 0.063580049605125,
+    "entropy_bits_lo": 6.22881869049588,
+    "entropy_bits_hi": 6.459431618637297
+  },
+  {
+    "model": "Grok 4",
+    "step": 3,
+    "entropy_bits_mean": 5.577936377177406,
+    "entropy_bits_std": 0.053846668681343,
+    "entropy_bits_lo": 5.491853096329675,
+    "entropy_bits_hi": 5.672425341971495
+  },
+  {
+    "model": "Grok 4",
+    "step": 4,
+    "entropy_bits_mean": 4.715355086123718,
+    "entropy_bits_std": 0.068260589650675,
+    "entropy_bits_lo": 4.643856189774724,
+    "entropy_bits_hi": 4.857980995127572
+  },
+  {
+    "model": "Grok 4",
+    "step": 5,
+    "entropy_bits_mean": 3.347978842667838,
+    "entropy_bits_std": 0.085463549510064,
+    "entropy_bits_lo": 3.169925001442312,
+    "entropy_bits_hi": 3.459431618637297
+  },
+  {
+    "model": "Grok 4",
+    "step": 6,
+    "entropy_bits_mean": 1.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 1.0,
+    "entropy_bits_hi": 1.0
+  },
+  {
+    "model": "Grok 4",
+    "step": 7,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "Grok 4",
+    "step": 8,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "Oracle",
+    "step": 1,
+    "entropy_bits_mean": 6.643856189774725,
+    "entropy_bits_std": 1e-15,
+    "entropy_bits_lo": 6.643856189774724,
+    "entropy_bits_hi": 6.643856189774724
+  },
+  {
+    "model": "Oracle",
+    "step": 2,
+    "entropy_bits_mean": 6.173571487399933,
+    "entropy_bits_std": 0.032053541276562,
+    "entropy_bits_lo": 6.108524456778169,
+    "entropy_bits_hi": 6.22881869049588
+  },
+  {
+    "model": "Oracle",
+    "step": 3,
+    "entropy_bits_mean": 5.140800466324301,
+    "entropy_bits_std": 0.047618419908399,
+    "entropy_bits_lo": 5.087462841250339,
+    "entropy_bits_hi": 5.247927513443585
+  },
+  {
+    "model": "Oracle",
+    "step": 4,
+    "entropy_bits_mean": 4.069470204894435,
+    "entropy_bits_std": 0.051489711624668,
+    "entropy_bits_lo": 4.0,
+    "entropy_bits_hi": 4.169925001442312
+  },
+  {
+    "model": "Oracle",
+    "step": 5,
+    "entropy_bits_mean": 2.348231535470742,
+    "entropy_bits_std": 0.078910321750138,
+    "entropy_bits_lo": 2.321928094887362,
+    "entropy_bits_hi": 2.584962500721156
+  },
+  {
+    "model": "Oracle",
+    "step": 6,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "Oracle",
+    "step": 7,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  },
+  {
+    "model": "Oracle",
+    "step": 8,
+    "entropy_bits_mean": 0.0,
+    "entropy_bits_std": 0.0,
+    "entropy_bits_lo": 0.0,
+    "entropy_bits_hi": 0.0
+  }
+]

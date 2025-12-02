@@ -1,0 +1,21 @@
+{
+  "equiv_classes": {
+    "num_items": 100,
+    "num_classes": 100
+  },
+  "oracle_lower_envelope": false,
+  "step6_means": {
+    "GPT 5": 0.0,
+    "Gemini 2.5 Pro": 1.0,
+    "Claude Sonnet 4.5": 1.0,
+    "Grok 4": 1.0,
+    "Oracle": 0.0
+  },
+  "step7_means": {
+    "GPT 5": 0.0,
+    "Gemini 2.5 Pro": 0.0,
+    "Claude Sonnet 4.5": 0.0,
+    "Grok 4": 1.0,
+    "Oracle": 0.0
+  }
+}

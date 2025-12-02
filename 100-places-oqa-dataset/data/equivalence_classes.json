@@ -1,0 +1,523 @@
+{
+  "num_items": 100,
+  "num_classes": 100,
+  "classes": [
+    {
+      "members": [
+        "Amazon Rainforest"
+      ]
+    },
+    {
+      "members": [
+        "Amsterdam"
+      ]
+    },
+    {
+      "members": [
+        "Angkor Wat"
+      ]
+    },
+    {
+      "members": [
+        "Antelope Canyon"
+      ]
+    },
+    {
+      "members": [
+        "Athens"
+      ]
+    },
+    {
+      "members": [
+        "Baghdad"
+      ]
+    },
+    {
+      "members": [
+        "Banff National Park"
+      ]
+    },
+    {
+      "members": [
+        "Bangkok"
+      ]
+    },
+    {
+      "members": [
+        "Barcelona"
+      ]
+    },
+    {
+      "members": [
+        "Berlin"
+      ]
+    },
+    {
+      "members": [
+        "Black Forest"
+      ]
+    },
+    {
+      "members": [
+        "Bogota"
+      ]
+    },
+    {
+      "members": [
+        "Bora Bora"
+      ]
+    },
+    {
+      "members": [
+        "Bryce Canyon National Park"
+      ]
+    },
+    {
+      "members": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "members": [
+        "Cairo"
+      ]
+    },
+    {
+      "members": [
+        "Canary Islands"
+      ]
+    },
+    {
+      "members": [
+        "Cape Town"
+      ]
+    },
+    {
+      "members": [
+        "Chichen Itza"
+      ]
+    },
+    {
+      "members": [
+        "Cinque Terre"
+      ]
+    },
+    {
+      "members": [
+        "Cusco"
+      ]
+    },
+    {
+      "members": [
+        "Death Valley"
+      ]
+    },
+    {
+      "members": [
+        "Dubai"
+      ]
+    },
+    {
+      "members": [
+        "Etosha National Park"
+      ]
+    },
+    {
+      "members": [
+        "Fiordland National Park"
+      ]
+    },
+    {
+      "members": [
+        "Galapagos Islands"
+      ]
+    },
+    {
+      "members": [
+        "Giant's Causeway"
+      ]
+    },
+    {
+      "members": [
+        "Grand Canyon"
+      ]
+    },
+    {
+      "members": [
+        "Great Barrier Reef"
+      ]
+    },
+    {
+      "members": [
+        "Great Ocean Road"
+      ]
+    },
+    {
+      "members": [
+        "Ha Long Bay"
+      ]
+    },
+    {
+      "members": [
+        "Hawaii Volcanoes National Park"
+      ]
+    },
+    {
+      "members": [
+        "Helsinki"
+      ]
+    },
+    {
+      "members": [
+        "Hong Kong"
+      ]
+    },
+    {
+      "members": [
+        "Iguazu Falls"
+      ]
+    },
+    {
+      "members": [
+        "Istanbul"
+      ]
+    },
+    {
+      "members": [
+        "Jeju Island"
+      ]
+    },
+    {
+      "members": [
+        "Jerusalem"
+      ]
+    },
+    {
+      "members": [
+        "Johannesburg"
+      ]
+    },
+    {
+      "members": [
+        "Karachi"
+      ]
+    },
+    {
+      "members": [
+        "Kruger National Park"
+      ]
+    },
+    {
+      "members": [
+        "Lake Baikal"
+      ]
+    },
+    {
+      "members": [
+        "Lake Titicaca"
+      ]
+    },
+    {
+      "members": [
+        "Lima"
+      ]
+    },
+    {
+      "members": [
+        "Lisbon"
+      ]
+    },
+    {
+      "members": [
+        "Los Angeles"
+      ]
+    },
+    {
+      "members": [
+        "Machu Picchu"
+      ]
+    },
+    {
+      "members": [
+        "Madrid"
+      ]
+    },
+    {
+      "members": [
+        "Marrakech"
+      ]
+    },
+    {
+      "members": [
+        "Mexico City"
+      ]
+    },
+    {
+      "members": [
+        "Mont Blanc"
+      ]
+    },
+    {
+      "members": [
+        "Mount Etna"
+      ]
+    },
+    {
+      "members": [
+        "Mount Everest"
+      ]
+    },
+    {
+      "members": [
+        "Mount Fuji"
+      ]
+    },
+    {
+      "members": [
+        "Mount Kilimanjaro"
+      ]
+    },
+    {
+      "members": [
+        "Mount Rainier National Park"
+      ]
+    },
+    {
+      "members": [
+        "Mount Sinai"
+      ]
+    },
+    {
+      "members": [
+        "Mumbai"
+      ]
+    },
+    {
+      "members": [
+        "Nairobi"
+      ]
+    },
+    {
+      "members": [
+        "Namib Desert"
+      ]
+    },
+    {
+      "members": [
+        "New York City"
+      ]
+    },
+    {
+      "members": [
+        "Niagara Falls"
+      ]
+    },
+    {
+      "members": [
+        "Oslo"
+      ]
+    },
+    {
+      "members": [
+        "Pamukkale"
+      ]
+    },
+    {
+      "members": [
+        "Paris"
+      ]
+    },
+    {
+      "members": [
+        "Patagonia"
+      ]
+    },
+    {
+      "members": [
+        "Petra"
+      ]
+    },
+    {
+      "members": [
+        "Phoenix"
+      ]
+    },
+    {
+      "members": [
+        "Plitvice Lakes"
+      ]
+    },
+    {
+      "members": [
+        "Prague"
+      ]
+    },
+    {
+      "members": [
+        "Pyramids of Giza"
+      ]
+    },
+    {
+      "members": [
+        "Quito"
+      ]
+    },
+    {
+      "members": [
+        "Rapa Nui"
+      ]
+    },
+    {
+      "members": [
+        "Reykjavik"
+      ]
+    },
+    {
+      "members": [
+        "Rio de Janeiro"
+      ]
+    },
+    {
+      "members": [
+        "Rome"
+      ]
+    },
+    {
+      "members": [
+        "Sahara Desert"
+      ]
+    },
+    {
+      "members": [
+        "Salar de Uyuni"
+      ]
+    },
+    {
+      "members": [
+        "Santiago (de Chile)"
+      ]
+    },
+    {
+      "members": [
+        "Seychelles"
+      ]
+    },
+    {
+      "members": [
+        "Shanghai"
+      ]
+    },
+    {
+      "members": [
+        "Skellig Michael"
+      ]
+    },
+    {
+      "members": [
+        "Stonehenge"
+      ]
+    },
+    {
+      "members": [
+        "Svalbard"
+      ]
+    },
+    {
+      "members": [
+        "Sydney"
+      ]
+    },
+    {
+      "members": [
+        "Table Mountain"
+      ]
+    },
+    {
+      "members": [
+        "Taj Mahal"
+      ]
+    },
+    {
+      "members": [
+        "Tehran"
+      ]
+    },
+    {
+      "members": [
+        "The Dead Sea"
+      ]
+    },
+    {
+      "members": [
+        "The Great Wall of China"
+      ]
+    },
+    {
+      "members": [
+        "Tokyo"
+      ]
+    },
+    {
+      "members": [
+        "Toronto"
+      ]
+    },
+    {
+      "members": [
+        "Uluru"
+      ]
+    },
+    {
+      "members": [
+        "Vancouver"
+      ]
+    },
+    {
+      "members": [
+        "Venice"
+      ]
+    },
+    {
+      "members": [
+        "Victoria Falls"
+      ]
+    },
+    {
+      "members": [
+        "Yellowstone National Park"
+      ]
+    },
+    {
+      "members": [
+        "Yosemite National Park"
+      ]
+    },
+    {
+      "members": [
+        "Zhangjiajie"
+      ]
+    },
+    {
+      "members": [
+        "Zion National Park"
+      ]
+    }
+  ],
+  "attribute_order": [
+    "capital_city",
+    "city",
+    "coastal",
+    "cold",
+    "cultural_site",
+    "desert",
+    "island",
+    "mountainous",
+    "natural_site",
+    "population_large",
+    "tourist_hotspot",
+    "tropical",
+    "unesco"
+  ],
+  "num_equivalence_classes": 100,
+  "num_classes_with_duplicates": 0
+}

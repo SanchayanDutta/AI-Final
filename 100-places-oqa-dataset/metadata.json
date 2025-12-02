@@ -1,0 +1,26 @@
+{
+  "dataset_id": "100_places",
+  "domain": "PLACES",
+  "object_type": "place",
+  "tier": 100,
+  "created_utc": "2025-11-28T00:00:00Z",
+  "num_items": 100,
+  "num_attributes": 13,
+  "attributes": [
+    "capital_city",
+    "city",
+    "coastal",
+    "cold",
+    "cultural_site",
+    "desert",
+    "island",
+    "mountainous",
+    "natural_site",
+    "population_large",
+    "tourist_hotspot",
+    "tropical",
+    "unesco"
+  ],
+  "duplicates_present": false,
+  "num_equivalence_classes": 100
+}
