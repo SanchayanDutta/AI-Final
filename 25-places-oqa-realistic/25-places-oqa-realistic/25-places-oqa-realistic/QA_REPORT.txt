@@ -1,0 +1,13 @@
+25-places OQA dataset: QA summary
+{
+  "seed_values_log2_integer": true,
+  "monotonicity_violations": 0
+}
+Equivalence classes:
+{
+  "num_classes": 25,
+  "class_size_histogram": {
+    "1": 25
+  },
+  "largest_class_size": 1
+}
