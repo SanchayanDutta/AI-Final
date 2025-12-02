@@ -1,0 +1,529 @@
+{
+  "attribute_order": [
+    "all_wheel_drive",
+    "convertible",
+    "coupe",
+    "domestic",
+    "electric",
+    "expensive",
+    "front_wheel_drive",
+    "gas",
+    "hybrid",
+    "luxury",
+    "off_road",
+    "rear_wheel_drive",
+    "seats_2",
+    "seats_4",
+    "seats_5",
+    "seats_7plus",
+    "sedan",
+    "sports",
+    "suv",
+    "truck"
+  ],
+  "num_items": 100,
+  "num_equivalence_classes": 100,
+  "num_classes_with_duplicates": 0,
+  "classes": [
+    {
+      "members": [
+        "Acura MDX"
+      ]
+    },
+    {
+      "members": [
+        "Acura NSX"
+      ]
+    },
+    {
+      "members": [
+        "Alfa Romeo Giulia"
+      ]
+    },
+    {
+      "members": [
+        "Alfa Romeo Stelvio"
+      ]
+    },
+    {
+      "members": [
+        "Aston Martin DB11"
+      ]
+    },
+    {
+      "members": [
+        "Aston Martin Valkyrie"
+      ]
+    },
+    {
+      "members": [
+        "Audi A4"
+      ]
+    },
+    {
+      "members": [
+        "Audi Q5"
+      ]
+    },
+    {
+      "members": [
+        "Audi Q7"
+      ]
+    },
+    {
+      "members": [
+        "Audi R8"
+      ]
+    },
+    {
+      "members": [
+        "BMW 3 Series"
+      ]
+    },
+    {
+      "members": [
+        "BMW X5"
+      ]
+    },
+    {
+      "members": [
+        "BMW i3"
+      ]
+    },
+    {
+      "members": [
+        "Bentley Continental GT"
+      ]
+    },
+    {
+      "members": [
+        "Bugatti Veyron"
+      ]
+    },
+    {
+      "members": [
+        "Buick Enclave"
+      ]
+    },
+    {
+      "members": [
+        "Cadillac CTS"
+      ]
+    },
+    {
+      "members": [
+        "Cadillac Escalade"
+      ]
+    },
+    {
+      "members": [
+        "Chevrolet Bolt"
+      ]
+    },
+    {
+      "members": [
+        "Chevrolet Camaro"
+      ]
+    },
+    {
+      "members": [
+        "Chevrolet Corvette"
+      ]
+    },
+    {
+      "members": [
+        "Chevrolet Silverado EV"
+      ]
+    },
+    {
+      "members": [
+        "Chevrolet Tahoe"
+      ]
+    },
+    {
+      "members": [
+        "Chrysler Pacifica Hybrid"
+      ]
+    },
+    {
+      "members": [
+        "Dodge Challenger"
+      ]
+    },
+    {
+      "members": [
+        "Dodge Charger"
+      ]
+    },
+    {
+      "members": [
+        "Ferrari 488"
+      ]
+    },
+    {
+      "members": [
+        "Ford Bronco"
+      ]
+    },
+    {
+      "members": [
+        "Ford Explorer"
+      ]
+    },
+    {
+      "members": [
+        "Ford F-150"
+      ]
+    },
+    {
+      "members": [
+        "Ford Maverick"
+      ]
+    },
+    {
+      "members": [
+        "Ford Mustang"
+      ]
+    },
+    {
+      "members": [
+        "GMC Hummer EV"
+      ]
+    },
+    {
+      "members": [
+        "GMC Sierra"
+      ]
+    },
+    {
+      "members": [
+        "GMC Yukon AT4"
+      ]
+    },
+    {
+      "members": [
+        "Genesis G70"
+      ]
+    },
+    {
+      "members": [
+        "Genesis GV80"
+      ]
+    },
+    {
+      "members": [
+        "Honda Accord"
+      ]
+    },
+    {
+      "members": [
+        "Honda CR-V"
+      ]
+    },
+    {
+      "members": [
+        "Honda Civic"
+      ]
+    },
+    {
+      "members": [
+        "Honda Odyssey"
+      ]
+    },
+    {
+      "members": [
+        "Hyundai Elantra"
+      ]
+    },
+    {
+      "members": [
+        "Hyundai Ioniq 5"
+      ]
+    },
+    {
+      "members": [
+        "Hyundai Ioniq 6"
+      ]
+    },
+    {
+      "members": [
+        "Hyundai Kona Electric"
+      ]
+    },
+    {
+      "members": [
+        "Hyundai Sonata"
+      ]
+    },
+    {
+      "members": [
+        "Infiniti Q50"
+      ]
+    },
+    {
+      "members": [
+        "Infiniti QX80"
+      ]
+    },
+    {
+      "members": [
+        "Jaguar F-Type"
+      ]
+    },
+    {
+      "members": [
+        "Jaguar I-Pace"
+      ]
+    },
+    {
+      "members": [
+        "Jeep Gladiator"
+      ]
+    },
+    {
+      "members": [
+        "Jeep Grand Cherokee"
+      ]
+    },
+    {
+      "members": [
+        "Jeep Wrangler"
+      ]
+    },
+    {
+      "members": [
+        "Kia Carnival"
+      ]
+    },
+    {
+      "members": [
+        "Kia EV6"
+      ]
+    },
+    {
+      "members": [
+        "Kia Seltos"
+      ]
+    },
+    {
+      "members": [
+        "Kia Soul"
+      ]
+    },
+    {
+      "members": [
+        "Kia Telluride"
+      ]
+    },
+    {
+      "members": [
+        "Lamborghini Huracan"
+      ]
+    },
+    {
+      "members": [
+        "Land Rover Defender"
+      ]
+    },
+    {
+      "members": [
+        "Lexus LC 500"
+      ]
+    },
+    {
+      "members": [
+        "Lexus RX"
+      ]
+    },
+    {
+      "members": [
+        "Lotus Emira"
+      ]
+    },
+    {
+      "members": [
+        "Lucid Air"
+      ]
+    },
+    {
+      "members": [
+        "Mazda CX-5"
+      ]
+    },
+    {
+      "members": [
+        "Mazda MX-5 Miata"
+      ]
+    },
+    {
+      "members": [
+        "McLaren Artura"
+      ]
+    },
+    {
+      "members": [
+        "Mercedes-Benz S-Class"
+      ]
+    },
+    {
+      "members": [
+        "Mini Cooper"
+      ]
+    },
+    {
+      "members": [
+        "Mitsubishi Mirage"
+      ]
+    },
+    {
+      "members": [
+        "Mitsubishi Outlander"
+      ]
+    },
+    {
+      "members": [
+        "Nissan Altima"
+      ]
+    },
+    {
+      "members": [
+        "Nissan Leaf"
+      ]
+    },
+    {
+      "members": [
+        "Nissan Z"
+      ]
+    },
+    {
+      "members": [
+        "Polestar 2"
+      ]
+    },
+    {
+      "members": [
+        "Polestar 3"
+      ]
+    },
+    {
+      "members": [
+        "Porsche 911"
+      ]
+    },
+    {
+      "members": [
+        "Porsche Boxster"
+      ]
+    },
+    {
+      "members": [
+        "Porsche Cayenne"
+      ]
+    },
+    {
+      "members": [
+        "Ram 1500"
+      ]
+    },
+    {
+      "members": [
+        "Range Rover"
+      ]
+    },
+    {
+      "members": [
+        "Rivian R1S"
+      ]
+    },
+    {
+      "members": [
+        "Rivian R1T"
+      ]
+    },
+    {
+      "members": [
+        "Rolls-Royce Phantom"
+      ]
+    },
+    {
+      "members": [
+        "Subaru BRZ"
+      ]
+    },
+    {
+      "members": [
+        "Subaru Forester Wilderness"
+      ]
+    },
+    {
+      "members": [
+        "Subaru Outback"
+      ]
+    },
+    {
+      "members": [
+        "Tesla Model 3"
+      ]
+    },
+    {
+      "members": [
+        "Tesla Model S"
+      ]
+    },
+    {
+      "members": [
+        "Tesla Model X"
+      ]
+    },
+    {
+      "members": [
+        "Tesla Model Y"
+      ]
+    },
+    {
+      "members": [
+        "Toyota Camry"
+      ]
+    },
+    {
+      "members": [
+        "Toyota Corolla"
+      ]
+    },
+    {
+      "members": [
+        "Toyota Highlander"
+      ]
+    },
+    {
+      "members": [
+        "Toyota Prius"
+      ]
+    },
+    {
+      "members": [
+        "Toyota RAV4"
+      ]
+    },
+    {
+      "members": [
+        "Toyota Sienna"
+      ]
+    },
+    {
+      "members": [
+        "Volkswagen Golf"
+      ]
+    },
+    {
+      "members": [
+        "Volkswagen Tiguan"
+      ]
+    },
+    {
+      "members": [
+        "Volvo XC90"
+      ]
+    }
+  ]
+}

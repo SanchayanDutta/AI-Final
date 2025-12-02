@@ -1,0 +1,100 @@
+Acura MDX
+Acura NSX
+Alfa Romeo Giulia
+Alfa Romeo Stelvio
+Aston Martin DB11
+Aston Martin Valkyrie
+Audi A4
+Audi Q5
+Audi Q7
+Audi R8
+BMW 3 Series
+BMW X5
+BMW i3
+Bentley Continental GT
+Bugatti Veyron
+Buick Enclave
+Cadillac CTS
+Cadillac Escalade
+Chevrolet Bolt
+Chevrolet Camaro
+Chevrolet Corvette
+Chevrolet Silverado EV
+Chevrolet Tahoe
+Chrysler Pacifica Hybrid
+Dodge Challenger
+Dodge Charger
+Ferrari 488
+Ford Bronco
+Ford Explorer
+Ford F-150
+Ford Maverick
+Ford Mustang
+GMC Hummer EV
+GMC Sierra
+GMC Yukon AT4
+Genesis G70
+Genesis GV80
+Honda Accord
+Honda CR-V
+Honda Civic
+Honda Odyssey
+Hyundai Elantra
+Hyundai Ioniq 5
+Hyundai Ioniq 6
+Hyundai Kona Electric
+Hyundai Sonata
+Infiniti Q50
+Infiniti QX80
+Jaguar F-Type
+Jaguar I-Pace
+Jeep Gladiator
+Jeep Grand Cherokee
+Jeep Wrangler
+Kia Carnival
+Kia EV6
+Kia Seltos
+Kia Soul
+Kia Telluride
+Lamborghini Huracan
+Land Rover Defender
+Lexus LC 500
+Lexus RX
+Lotus Emira
+Lucid Air
+Mazda CX-5
+Mazda MX-5 Miata
+McLaren Artura
+Mercedes-Benz S-Class
+Mini Cooper
+Mitsubishi Mirage
+Mitsubishi Outlander
+Nissan Altima
+Nissan Leaf
+Nissan Z
+Polestar 2
+Polestar 3
+Porsche 911
+Porsche Boxster
+Porsche Cayenne
+Ram 1500
+Range Rover
+Rivian R1S
+Rivian R1T
+Rolls-Royce Phantom
+Subaru BRZ
+Subaru Forester Wilderness
+Subaru Outback
+Tesla Model 3
+Tesla Model S
+Tesla Model X
+Tesla Model Y
+Toyota Camry
+Toyota Corolla
+Toyota Highlander
+Toyota Prius
+Toyota RAV4
+Toyota Sienna
+Volkswagen Golf
+Volkswagen Tiguan
+Volvo XC90

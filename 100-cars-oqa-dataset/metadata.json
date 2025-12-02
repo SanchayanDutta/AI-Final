@@ -1,0 +1,33 @@
+{
+  "dataset_id": "100_cars",
+  "domain": "CARS",
+  "object_type": "car",
+  "tier": 100,
+  "created_utc": "2025-11-28T00:00:00Z",
+  "num_items": 100,
+  "num_attributes": 20,
+  "attributes": [
+    "all_wheel_drive",
+    "convertible",
+    "coupe",
+    "domestic",
+    "electric",
+    "expensive",
+    "front_wheel_drive",
+    "gas",
+    "hybrid",
+    "luxury",
+    "off_road",
+    "rear_wheel_drive",
+    "seats_2",
+    "seats_4",
+    "seats_5",
+    "seats_7plus",
+    "sedan",
+    "sports",
+    "suv",
+    "truck"
+  ],
+  "duplicates_present": false,
+  "num_equivalence_classes": 100
+}
