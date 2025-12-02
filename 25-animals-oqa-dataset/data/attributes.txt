@@ -1,0 +1,14 @@
+amphibian
+big
+bird
+can_fly
+can_swim
+carnivore
+domestic
+fish
+has_fur
+herbivore
+insect
+lays_eggs
+mammal
+reptile

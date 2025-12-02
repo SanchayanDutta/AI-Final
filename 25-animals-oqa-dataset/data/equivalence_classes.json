@@ -1,0 +1,136 @@
+{
+  "attribute_order": [
+    "amphibian",
+    "big",
+    "bird",
+    "can_fly",
+    "can_swim",
+    "carnivore",
+    "domestic",
+    "fish",
+    "has_fur",
+    "herbivore",
+    "insect",
+    "lays_eggs",
+    "mammal",
+    "reptile"
+  ],
+  "num_items": 25,
+  "num_equivalence_classes": 22,
+  "num_classes_with_duplicates": 3,
+  "classes": [
+    {
+      "members": [
+        "bat"
+      ]
+    },
+    {
+      "members": [
+        "cat"
+      ]
+    },
+    {
+      "members": [
+        "chicken"
+      ]
+    },
+    {
+      "members": [
+        "cow"
+      ]
+    },
+    {
+      "members": [
+        "crocodile"
+      ]
+    },
+    {
+      "members": [
+        "cuttlefish"
+      ]
+    },
+    {
+      "members": [
+        "dog"
+      ]
+    },
+    {
+      "members": [
+        "eagle"
+      ]
+    },
+    {
+      "members": [
+        "frog"
+      ]
+    },
+    {
+      "members": [
+        "goat"
+      ]
+    },
+    {
+      "members": [
+        "hippopotamus"
+      ]
+    },
+    {
+      "members": [
+        "horse"
+      ]
+    },
+    {
+      "members": [
+        "kangaroo"
+      ]
+    },
+    {
+      "members": [
+        "lion"
+      ]
+    },
+    {
+      "members": [
+        "monkey"
+      ]
+    },
+    {
+      "members": [
+        "penguin"
+      ]
+    },
+    {
+      "members": [
+        "shark"
+      ]
+    },
+    {
+      "members": [
+        "snake"
+      ]
+    },
+    {
+      "members": [
+        "whale"
+      ]
+    },
+    {
+      "members": [
+        "bear",
+        "tiger"
+      ]
+    },
+    {
+      "members": [
+        "elephant",
+        "rhino"
+      ]
+    },
+    {
+      "members": [
+        "giraffe",
+        "panda"
+      ]
+    }
+  ]
+}

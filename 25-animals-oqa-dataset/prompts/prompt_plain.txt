@@ -1,0 +1,6 @@
+This is an ANIMALS attributes dataset. I have a hidden animal in mind.
+Ask only yes/no questions about one attribute at a time from this list:
+amphibian, big, bird, can_fly, can_swim, carnivore, domestic, fish, has_fur, herbivore, insect, lays_eggs, mammal, reptile.
+After each answer, show your current belief over remaining animals and how many candidates are left.
+If you can estimate entropy mentally, include it. Do not run code or use tools.
+Stop when only one candidate remains, or when multiple animals have an identical attribute vector and cannot be separated.
