@@ -1,0 +1,8 @@
+color
+shape
+material
+size
+pattern
+origin
+use_case
+energy

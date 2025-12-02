@@ -1,0 +1,3002 @@
+{
+  "0000": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0001": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0002": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0003": {
+    "color": "blue",
+    "shape": "square",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0004": {
+    "color": "black",
+    "shape": "circle",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0005": {
+    "color": "black",
+    "shape": "circle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0006": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0007": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0008": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0009": {
+    "color": "blue",
+    "shape": "circle",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "000a": {
+    "color": "black",
+    "shape": "circle",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "000b": {
+    "color": "black",
+    "shape": "square",
+    "material": "wood",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "000c": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "000d": {
+    "color": "green",
+    "shape": "circle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "000e": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "000f": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0010": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "0011": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0012": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0013": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0014": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0015": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0016": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0017": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0018": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0019": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "001a": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "001b": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "001c": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "001d": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "001e": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "001f": {
+    "color": "black",
+    "shape": "square",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0020": {
+    "color": "green",
+    "shape": "square",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0021": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0022": {
+    "color": "black",
+    "shape": "square",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0023": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0024": {
+    "color": "black",
+    "shape": "circle",
+    "material": "wood",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0025": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0026": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0027": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0028": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "glass",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0029": {
+    "color": "green",
+    "shape": "square",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "002a": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "002b": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "002c": {
+    "color": "red",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "002d": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "wood",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "002e": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "002f": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0030": {
+    "color": "blue",
+    "shape": "square",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0031": {
+    "color": "green",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0032": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0033": {
+    "color": "black",
+    "shape": "square",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "0034": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0035": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0036": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0037": {
+    "color": "green",
+    "shape": "square",
+    "material": "fabric",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0038": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "0039": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "003a": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "003b": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "003c": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "003d": {
+    "color": "red",
+    "shape": "circle",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "003e": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "003f": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0040": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0041": {
+    "color": "green",
+    "shape": "circle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0042": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0043": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0044": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0045": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0046": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0047": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0048": {
+    "color": "red",
+    "shape": "square",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0049": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "004a": {
+    "color": "green",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "004b": {
+    "color": "black",
+    "shape": "square",
+    "material": "metal",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "004c": {
+    "color": "green",
+    "shape": "square",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "004d": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "004e": {
+    "color": "black",
+    "shape": "square",
+    "material": "metal",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "004f": {
+    "color": "green",
+    "shape": "square",
+    "material": "wood",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0050": {
+    "color": "blue",
+    "shape": "square",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "0051": {
+    "color": "red",
+    "shape": "circle",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0052": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0053": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0054": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0055": {
+    "color": "green",
+    "shape": "circle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0056": {
+    "color": "black",
+    "shape": "square",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0057": {
+    "color": "green",
+    "shape": "square",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0058": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0059": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "metal",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "005a": {
+    "color": "green",
+    "shape": "circle",
+    "material": "glass",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "005b": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "005c": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "005d": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "005e": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "005f": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0060": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0061": {
+    "color": "black",
+    "shape": "circle",
+    "material": "wood",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0062": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "0063": {
+    "color": "black",
+    "shape": "square",
+    "material": "wood",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0064": {
+    "color": "green",
+    "shape": "square",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0065": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0066": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0067": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "0068": {
+    "color": "blue",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0069": {
+    "color": "green",
+    "shape": "circle",
+    "material": "wood",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "006a": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "006b": {
+    "color": "green",
+    "shape": "circle",
+    "material": "metal",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "006c": {
+    "color": "black",
+    "shape": "square",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "006d": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "006e": {
+    "color": "black",
+    "shape": "square",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "006f": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0070": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0071": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0072": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "fabric",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0073": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0074": {
+    "color": "red",
+    "shape": "square",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "0075": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0076": {
+    "color": "blue",
+    "shape": "square",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0077": {
+    "color": "black",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0078": {
+    "color": "green",
+    "shape": "circle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "0079": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "007a": {
+    "color": "blue",
+    "shape": "square",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "007b": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "007c": {
+    "color": "red",
+    "shape": "square",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "007d": {
+    "color": "green",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "007e": {
+    "color": "black",
+    "shape": "square",
+    "material": "glass",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "007f": {
+    "color": "black",
+    "shape": "square",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0080": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0081": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "wood",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "0082": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0083": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "0084": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "0085": {
+    "color": "black",
+    "shape": "square",
+    "material": "glass",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "0086": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0087": {
+    "color": "red",
+    "shape": "square",
+    "material": "glass",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0088": {
+    "color": "red",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0089": {
+    "color": "blue",
+    "shape": "circle",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "008a": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "008b": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "008c": {
+    "color": "green",
+    "shape": "square",
+    "material": "metal",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "008d": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "008e": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "metal",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "008f": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "0090": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "0091": {
+    "color": "black",
+    "shape": "circle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0092": {
+    "color": "blue",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "0093": {
+    "color": "green",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0094": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0095": {
+    "color": "blue",
+    "shape": "square",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0096": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "0097": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0098": {
+    "color": "black",
+    "shape": "circle",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0099": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "009a": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "009b": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "009c": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "009d": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "009e": {
+    "color": "green",
+    "shape": "circle",
+    "material": "glass",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "009f": {
+    "color": "green",
+    "shape": "square",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00a0": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "00a1": {
+    "color": "black",
+    "shape": "circle",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00a2": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00a3": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00a4": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "00a5": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00a6": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00a7": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "metal",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "00a8": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "00a9": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00aa": {
+    "color": "blue",
+    "shape": "square",
+    "material": "metal",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "00ab": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "00ac": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00ad": {
+    "color": "blue",
+    "shape": "square",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00ae": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "00af": {
+    "color": "red",
+    "shape": "circle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00b0": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "00b1": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00b2": {
+    "color": "blue",
+    "shape": "circle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00b3": {
+    "color": "red",
+    "shape": "square",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00b4": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00b5": {
+    "color": "blue",
+    "shape": "square",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00b6": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "00b7": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00b8": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00b9": {
+    "color": "red",
+    "shape": "square",
+    "material": "metal",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00ba": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00bb": {
+    "color": "blue",
+    "shape": "circle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00bc": {
+    "color": "black",
+    "shape": "circle",
+    "material": "wood",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00bd": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00be": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00bf": {
+    "color": "green",
+    "shape": "square",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "00c0": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "00c1": {
+    "color": "red",
+    "shape": "square",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00c2": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00c3": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00c4": {
+    "color": "red",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "00c5": {
+    "color": "green",
+    "shape": "circle",
+    "material": "metal",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00c6": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00c7": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00c8": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00c9": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00ca": {
+    "color": "red",
+    "shape": "square",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00cb": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "00cc": {
+    "color": "red",
+    "shape": "circle",
+    "material": "glass",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00cd": {
+    "color": "red",
+    "shape": "square",
+    "material": "wood",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00ce": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00cf": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00d0": {
+    "color": "red",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00d1": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00d2": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00d3": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00d4": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "00d5": {
+    "color": "blue",
+    "shape": "square",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00d6": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "00d7": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00d8": {
+    "color": "blue",
+    "shape": "square",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00d9": {
+    "color": "black",
+    "shape": "circle",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00da": {
+    "color": "black",
+    "shape": "square",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00db": {
+    "color": "green",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00dc": {
+    "color": "blue",
+    "shape": "square",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00dd": {
+    "color": "black",
+    "shape": "square",
+    "material": "metal",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00de": {
+    "color": "red",
+    "shape": "square",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00df": {
+    "color": "green",
+    "shape": "circle",
+    "material": "metal",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "00e0": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "00e1": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00e2": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00e3": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00e4": {
+    "color": "red",
+    "shape": "circle",
+    "material": "glass",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "00e5": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "00e6": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00e7": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00e8": {
+    "color": "red",
+    "shape": "circle",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00e9": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00ea": {
+    "color": "green",
+    "shape": "square",
+    "material": "metal",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "00eb": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "striped",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "00ec": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "00ed": {
+    "color": "green",
+    "shape": "square",
+    "material": "glass",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00ee": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00ef": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "00f0": {
+    "color": "black",
+    "shape": "square",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "00f1": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "00f2": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "00f3": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00f4": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "00f5": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "00f6": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "00f7": {
+    "color": "black",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00f8": {
+    "color": "red",
+    "shape": "square",
+    "material": "fabric",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00f9": {
+    "color": "black",
+    "shape": "circle",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "00fa": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "XL",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00fb": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "00fc": {
+    "color": "blue",
+    "shape": "square",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "00fd": {
+    "color": "blue",
+    "shape": "square",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "00fe": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "glass",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "00ff": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0100": {
+    "color": "green",
+    "shape": "circle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "solar"
+  },
+  "0101": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "0102": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0103": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0104": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "fabric",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0105": {
+    "color": "black",
+    "shape": "square",
+    "material": "glass",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "0106": {
+    "color": "yellow",
+    "shape": "square",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0107": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "glass",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0108": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "electric"
+  },
+  "0109": {
+    "color": "green",
+    "shape": "square",
+    "material": "wood",
+    "size": "L",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "010a": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "010b": {
+    "color": "black",
+    "shape": "square",
+    "material": "fabric",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "indoor",
+    "energy": "manual"
+  },
+  "010c": {
+    "color": "yellow",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "010d": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "striped",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "010e": {
+    "color": "blue",
+    "shape": "hexagon",
+    "material": "metal",
+    "size": "M",
+    "pattern": "solid",
+    "origin": "mountain",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "010f": {
+    "color": "black",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "manual"
+  },
+  "0110": {
+    "color": "green",
+    "shape": "square",
+    "material": "glass",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0111": {
+    "color": "black",
+    "shape": "circle",
+    "material": "plastic",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "0112": {
+    "color": "blue",
+    "shape": "circle",
+    "material": "wood",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0113": {
+    "color": "red",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "manual"
+  },
+  "0114": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "fabric",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "0115": {
+    "color": "black",
+    "shape": "circle",
+    "material": "glass",
+    "size": "M",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0116": {
+    "color": "red",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0117": {
+    "color": "blue",
+    "shape": "square",
+    "material": "metal",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0118": {
+    "color": "blue",
+    "shape": "square",
+    "material": "glass",
+    "size": "M",
+    "pattern": "striped",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0119": {
+    "color": "green",
+    "shape": "square",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "011a": {
+    "color": "black",
+    "shape": "circle",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "coastal",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "011b": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "glass",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "011c": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "XS",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "011d": {
+    "color": "green",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "solar"
+  },
+  "011e": {
+    "color": "green",
+    "shape": "triangle",
+    "material": "fabric",
+    "size": "XL",
+    "pattern": "dotted",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "011f": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "wood",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0120": {
+    "color": "blue",
+    "shape": "triangle",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "0121": {
+    "color": "black",
+    "shape": "hexagon",
+    "material": "wood",
+    "size": "S",
+    "pattern": "solid",
+    "origin": "coastal",
+    "use_case": "indoor",
+    "energy": "electric"
+  },
+  "0122": {
+    "color": "yellow",
+    "shape": "circle",
+    "material": "metal",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "urban",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "0123": {
+    "color": "blue",
+    "shape": "square",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0124": {
+    "color": "black",
+    "shape": "square",
+    "material": "plastic",
+    "size": "S",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0125": {
+    "color": "red",
+    "shape": "square",
+    "material": "metal",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "urban",
+    "use_case": "outdoor",
+    "energy": "electric"
+  },
+  "0126": {
+    "color": "green",
+    "shape": "square",
+    "material": "glass",
+    "size": "L",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "manual"
+  },
+  "0127": {
+    "color": "black",
+    "shape": "square",
+    "material": "wood",
+    "size": "M",
+    "pattern": "plaid",
+    "origin": "rural",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "0128": {
+    "color": "yellow",
+    "shape": "triangle",
+    "material": "metal",
+    "size": "XL",
+    "pattern": "solid",
+    "origin": "rural",
+    "use_case": "indoor",
+    "energy": "solar"
+  },
+  "0129": {
+    "color": "red",
+    "shape": "square",
+    "material": "wood",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "solar"
+  },
+  "012a": {
+    "color": "green",
+    "shape": "circle",
+    "material": "glass",
+    "size": "L",
+    "pattern": "plaid",
+    "origin": "coastal",
+    "use_case": "wearable",
+    "energy": "electric"
+  },
+  "012b": {
+    "color": "black",
+    "shape": "square",
+    "material": "wood",
+    "size": "XS",
+    "pattern": "dotted",
+    "origin": "mountain",
+    "use_case": "stationary",
+    "energy": "electric"
+  }
+}

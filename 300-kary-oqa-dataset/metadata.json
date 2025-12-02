@@ -1,0 +1,21 @@
+{
+  "dataset_id": "kary300",
+  "domain": "KARY",
+  "object_type": "item",
+  "tier": 300,
+  "created_utc": "2025-11-28T00:00:00Z",
+  "num_items": 300,
+  "num_attributes": 8,
+  "attributes": [
+    "color",
+    "shape",
+    "material",
+    "size",
+    "pattern",
+    "origin",
+    "use_case",
+    "energy"
+  ],
+  "duplicates_present": false,
+  "num_equivalence_classes": 300
+}
