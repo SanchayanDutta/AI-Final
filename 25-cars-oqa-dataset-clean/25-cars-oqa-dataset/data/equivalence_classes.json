@@ -1,0 +1,154 @@
+{
+  "attribute_order": [
+    "all_wheel_drive",
+    "convertible",
+    "coupe",
+    "domestic",
+    "electric",
+    "expensive",
+    "front_wheel_drive",
+    "gas",
+    "hybrid",
+    "luxury",
+    "off_road",
+    "rear_wheel_drive",
+    "seats_2",
+    "seats_4",
+    "seats_5",
+    "seats_7plus",
+    "sedan",
+    "sports",
+    "suv",
+    "truck"
+  ],
+  "num_items": 25,
+  "num_equivalence_classes": 25,
+  "num_classes_with_duplicates": 0,
+  "classes": [
+    {
+      "members": [
+        "Acura NSX"
+      ]
+    },
+    {
+      "members": [
+        "Audi R8"
+      ]
+    },
+    {
+      "members": [
+        "BMW 3 Series"
+      ]
+    },
+    {
+      "members": [
+        "BMW X5"
+      ]
+    },
+    {
+      "members": [
+        "Chevrolet Corvette"
+      ]
+    },
+    {
+      "members": [
+        "Chevrolet Tahoe"
+      ]
+    },
+    {
+      "members": [
+        "Dodge Charger"
+      ]
+    },
+    {
+      "members": [
+        "Ford Maverick"
+      ]
+    },
+    {
+      "members": [
+        "Genesis GV80"
+      ]
+    },
+    {
+      "members": [
+        "Hyundai Ioniq 6"
+      ]
+    },
+    {
+      "members": [
+        "Jaguar F-Type"
+      ]
+    },
+    {
+      "members": [
+        "Jeep Grand Cherokee"
+      ]
+    },
+    {
+      "members": [
+        "Jeep Wrangler"
+      ]
+    },
+    {
+      "members": [
+        "Kia Carnival"
+      ]
+    },
+    {
+      "members": [
+        "Lexus LC 500"
+      ]
+    },
+    {
+      "members": [
+        "Lexus RX"
+      ]
+    },
+    {
+      "members": [
+        "Lucid Air"
+      ]
+    },
+    {
+      "members": [
+        "McLaren Artura"
+      ]
+    },
+    {
+      "members": [
+        "Mini Cooper"
+      ]
+    },
+    {
+      "members": [
+        "Rivian R1T"
+      ]
+    },
+    {
+      "members": [
+        "Subaru Forester Wilderness"
+      ]
+    },
+    {
+      "members": [
+        "Tesla Model Y"
+      ]
+    },
+    {
+      "members": [
+        "Toyota Prius"
+      ]
+    },
+    {
+      "members": [
+        "Toyota Sienna"
+      ]
+    },
+    {
+      "members": [
+        "Volvo XC90"
+      ]
+    }
+  ]
+}
