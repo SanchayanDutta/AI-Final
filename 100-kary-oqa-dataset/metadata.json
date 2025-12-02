@@ -1,0 +1,11 @@
+{
+  "dataset_id": "kary100_objects",
+  "domain": "OBJECTS",
+  "object_type": "object",
+  "tier": 100,
+  "num_items": 100,
+  "data_included": true,
+  "num_eval_targets": 30,
+  "created_utc": "2025-11-28T00:00:00Z",
+  "notes": "This bundle includes the 100-object attribute table plus entropy trajectories and summary statistics for 30 evaluation targets in the k-ary OQA setting."
+}

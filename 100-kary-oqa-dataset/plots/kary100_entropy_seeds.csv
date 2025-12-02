@@ -1,0 +1,1501 @@
+model,step,seed,entropy_bits
+Grok 4,1,1,6.643856189774724
+Grok 4,2,1,4.459431618637297
+Grok 4,3,1,3.169925001442312
+Grok 4,4,1,2.807354922057604
+Grok 4,5,1,2.0
+Grok 4,6,1,1.584962500721156
+Grok 4,7,1,1.0
+Grok 4,8,1,0.0
+Grok 4,9,1,0.0
+Grok 4,10,1,0.0
+Grok 4,1,2,6.643856189774724
+Grok 4,2,2,4.459431618637297
+Grok 4,3,2,3.4594316186372973
+Grok 4,4,2,2.584962500721156
+Grok 4,5,2,2.0
+Grok 4,6,2,1.0
+Grok 4,7,2,0.0
+Grok 4,8,2,0.0
+Grok 4,9,2,0.0
+Grok 4,10,2,0.0
+Grok 4,1,3,6.643856189774724
+Grok 4,2,3,4.459431618637297
+Grok 4,3,3,3.169925001442312
+Grok 4,4,3,2.584962500721156
+Grok 4,5,3,2.0
+Grok 4,6,3,1.584962500721156
+Grok 4,7,3,1.0
+Grok 4,8,3,0.0
+Grok 4,9,3,0.0
+Grok 4,10,3,0.0
+Grok 4,1,4,6.643856189774724
+Grok 4,2,4,4.584962500721156
+Grok 4,3,4,3.169925001442312
+Grok 4,4,4,2.584962500721156
+Grok 4,5,4,2.0
+Grok 4,6,4,1.584962500721156
+Grok 4,7,4,0.0
+Grok 4,8,4,0.0
+Grok 4,9,4,0.0
+Grok 4,10,4,0.0
+Grok 4,1,5,6.643856189774724
+Grok 4,2,5,4.584962500721156
+Grok 4,3,5,3.321928094887362
+Grok 4,4,5,2.321928094887362
+Grok 4,5,5,1.584962500721156
+Grok 4,6,5,1.0
+Grok 4,7,5,0.0
+Grok 4,8,5,0.0
+Grok 4,9,5,0.0
+Grok 4,10,5,0.0
+Grok 4,1,6,6.643856189774724
+Grok 4,2,6,4.392317422778761
+Grok 4,3,6,3.321928094887362
+Grok 4,4,6,2.584962500721156
+Grok 4,5,6,2.0
+Grok 4,6,6,1.584962500721156
+Grok 4,7,6,0.0
+Grok 4,8,6,0.0
+Grok 4,9,6,0.0
+Grok 4,10,6,0.0
+Grok 4,1,7,6.643856189774724
+Grok 4,2,7,4.459431618637297
+Grok 4,3,7,3.321928094887362
+Grok 4,4,7,2.321928094887362
+Grok 4,5,7,1.584962500721156
+Grok 4,6,7,1.0
+Grok 4,7,7,0.0
+Grok 4,8,7,0.0
+Grok 4,9,7,0.0
+Grok 4,10,7,0.0
+Grok 4,1,8,6.643856189774724
+Grok 4,2,8,4.459431618637297
+Grok 4,3,8,3.321928094887362
+Grok 4,4,8,2.807354922057604
+Grok 4,5,8,2.0
+Grok 4,6,8,1.584962500721156
+Grok 4,7,8,1.0
+Grok 4,8,8,0.0
+Grok 4,9,8,0.0
+Grok 4,10,8,0.0
+Grok 4,1,9,6.643856189774724
+Grok 4,2,9,4.459431618637297
+Grok 4,3,9,3.0
+Grok 4,4,9,2.584962500721156
+Grok 4,5,9,1.584962500721156
+Grok 4,6,9,1.0
+Grok 4,7,9,0.0
+Grok 4,8,9,0.0
+Grok 4,9,9,0.0
+Grok 4,10,9,0.0
+Grok 4,1,10,6.643856189774724
+Grok 4,2,10,4.523561956057013
+Grok 4,3,10,2.807354922057604
+Grok 4,4,10,2.584962500721156
+Grok 4,5,10,2.0
+Grok 4,6,10,1.584962500721156
+Grok 4,7,10,1.0
+Grok 4,8,10,0.0
+Grok 4,9,10,0.0
+Grok 4,10,10,0.0
+Grok 4,1,11,6.643856189774724
+Grok 4,2,11,4.392317422778761
+Grok 4,3,11,3.0
+Grok 4,4,11,2.807354922057604
+Grok 4,5,11,2.321928094887362
+Grok 4,6,11,1.584962500721156
+Grok 4,7,11,1.0
+Grok 4,8,11,0.0
+Grok 4,9,11,0.0
+Grok 4,10,11,0.0
+Grok 4,1,12,6.643856189774724
+Grok 4,2,12,4.459431618637297
+Grok 4,3,12,3.4594316186372973
+Grok 4,4,12,1.584962500721156
+Grok 4,5,12,1.0
+Grok 4,6,12,0.0
+Grok 4,7,12,0.0
+Grok 4,8,12,0.0
+Grok 4,9,12,0.0
+Grok 4,10,12,0.0
+Grok 4,1,13,6.643856189774724
+Grok 4,2,13,4.459431618637297
+Grok 4,3,13,3.4594316186372973
+Grok 4,4,13,2.321928094887362
+Grok 4,5,13,1.584962500721156
+Grok 4,6,13,1.0
+Grok 4,7,13,0.0
+Grok 4,8,13,0.0
+Grok 4,9,13,0.0
+Grok 4,10,13,0.0
+Grok 4,1,14,6.643856189774724
+Grok 4,2,14,4.523561956057013
+Grok 4,3,14,3.321928094887362
+Grok 4,4,14,2.321928094887362
+Grok 4,5,14,2.0
+Grok 4,6,14,1.584962500721156
+Grok 4,7,14,1.0
+Grok 4,8,14,0.0
+Grok 4,9,14,0.0
+Grok 4,10,14,0.0
+Grok 4,1,15,6.643856189774724
+Grok 4,2,15,4.523561956057013
+Grok 4,3,15,3.0
+Grok 4,4,15,1.584962500721156
+Grok 4,5,15,1.0
+Grok 4,6,15,0.0
+Grok 4,7,15,0.0
+Grok 4,8,15,0.0
+Grok 4,9,15,0.0
+Grok 4,10,15,0.0
+Grok 4,1,16,6.643856189774724
+Grok 4,2,16,4.643856189774724
+Grok 4,3,16,3.169925001442312
+Grok 4,4,16,2.321928094887362
+Grok 4,5,16,1.584962500721156
+Grok 4,6,16,1.0
+Grok 4,7,16,0.0
+Grok 4,8,16,0.0
+Grok 4,9,16,0.0
+Grok 4,10,16,0.0
+Grok 4,1,17,6.643856189774724
+Grok 4,2,17,4.392317422778761
+Grok 4,3,17,3.4594316186372973
+Grok 4,4,17,2.321928094887362
+Grok 4,5,17,2.0
+Grok 4,6,17,1.584962500721156
+Grok 4,7,17,1.0
+Grok 4,8,17,0.0
+Grok 4,9,17,0.0
+Grok 4,10,17,0.0
+Grok 4,1,18,6.643856189774724
+Grok 4,2,18,4.584962500721156
+Grok 4,3,18,3.169925001442312
+Grok 4,4,18,2.0
+Grok 4,5,18,1.584962500721156
+Grok 4,6,18,1.0
+Grok 4,7,18,0.0
+Grok 4,8,18,0.0
+Grok 4,9,18,0.0
+Grok 4,10,18,0.0
+Grok 4,1,19,6.643856189774724
+Grok 4,2,19,4.321928094887363
+Grok 4,3,19,3.321928094887362
+Grok 4,4,19,2.584962500721156
+Grok 4,5,19,2.0
+Grok 4,6,19,1.584962500721156
+Grok 4,7,19,1.0
+Grok 4,8,19,0.0
+Grok 4,9,19,0.0
+Grok 4,10,19,0.0
+Grok 4,1,20,6.643856189774724
+Grok 4,2,20,4.523561956057013
+Grok 4,3,20,3.169925001442312
+Grok 4,4,20,2.321928094887362
+Grok 4,5,20,1.584962500721156
+Grok 4,6,20,1.0
+Grok 4,7,20,0.0
+Grok 4,8,20,0.0
+Grok 4,9,20,0.0
+Grok 4,10,20,0.0
+Grok 4,1,21,6.643856189774724
+Grok 4,2,21,4.459431618637297
+Grok 4,3,21,3.4594316186372973
+Grok 4,4,21,2.584962500721156
+Grok 4,5,21,2.0
+Grok 4,6,21,1.584962500721156
+Grok 4,7,21,1.0
+Grok 4,8,21,0.0
+Grok 4,9,21,0.0
+Grok 4,10,21,0.0
+Grok 4,1,22,6.643856189774724
+Grok 4,2,22,4.459431618637297
+Grok 4,3,22,3.321928094887362
+Grok 4,4,22,2.584962500721156
+Grok 4,5,22,2.0
+Grok 4,6,22,1.0
+Grok 4,7,22,0.0
+Grok 4,8,22,0.0
+Grok 4,9,22,0.0
+Grok 4,10,22,0.0
+Grok 4,1,23,6.643856189774724
+Grok 4,2,23,4.392317422778761
+Grok 4,3,23,3.0
+Grok 4,4,23,2.321928094887362
+Grok 4,5,23,2.0
+Grok 4,6,23,1.584962500721156
+Grok 4,7,23,1.0
+Grok 4,8,23,0.0
+Grok 4,9,23,0.0
+Grok 4,10,23,0.0
+Grok 4,1,24,6.643856189774724
+Grok 4,2,24,4.459431618637297
+Grok 4,3,24,3.0
+Grok 4,4,24,2.807354922057604
+Grok 4,5,24,2.0
+Grok 4,6,24,1.584962500721156
+Grok 4,7,24,1.0
+Grok 4,8,24,0.0
+Grok 4,9,24,0.0
+Grok 4,10,24,0.0
+Grok 4,1,25,6.643856189774724
+Grok 4,2,25,4.523561956057013
+Grok 4,3,25,2.807354922057604
+Grok 4,4,25,2.321928094887362
+Grok 4,5,25,2.0
+Grok 4,6,25,1.584962500721156
+Grok 4,7,25,1.0
+Grok 4,8,25,0.0
+Grok 4,9,25,0.0
+Grok 4,10,25,0.0
+Grok 4,1,26,6.643856189774724
+Grok 4,2,26,4.392317422778761
+Grok 4,3,26,3.169925001442312
+Grok 4,4,26,2.584962500721156
+Grok 4,5,26,2.0
+Grok 4,6,26,1.584962500721156
+Grok 4,7,26,1.0
+Grok 4,8,26,0.0
+Grok 4,9,26,0.0
+Grok 4,10,26,0.0
+Grok 4,1,27,6.643856189774724
+Grok 4,2,27,4.459431618637297
+Grok 4,3,27,3.4594316186372973
+Grok 4,4,27,2.584962500721156
+Grok 4,5,27,2.0
+Grok 4,6,27,1.584962500721156
+Grok 4,7,27,1.0
+Grok 4,8,27,0.0
+Grok 4,9,27,0.0
+Grok 4,10,27,0.0
+Grok 4,1,28,6.643856189774724
+Grok 4,2,28,4.584962500721156
+Grok 4,3,28,2.807354922057604
+Grok 4,4,28,2.584962500721156
+Grok 4,5,28,2.321928094887362
+Grok 4,6,28,1.584962500721156
+Grok 4,7,28,1.0
+Grok 4,8,28,0.0
+Grok 4,9,28,0.0
+Grok 4,10,28,0.0
+Grok 4,1,29,6.643856189774724
+Grok 4,2,29,4.523561956057013
+Grok 4,3,29,3.169925001442312
+Grok 4,4,29,1.584962500721156
+Grok 4,5,29,1.0
+Grok 4,6,29,0.0
+Grok 4,7,29,0.0
+Grok 4,8,29,0.0
+Grok 4,9,29,0.0
+Grok 4,10,29,0.0
+Grok 4,1,30,6.643856189774724
+Grok 4,2,30,4.459431618637297
+Grok 4,3,30,3.321928094887362
+Grok 4,4,30,2.584962500721156
+Grok 4,5,30,2.321928094887362
+Grok 4,6,30,1.0
+Grok 4,7,30,0.0
+Grok 4,8,30,0.0
+Grok 4,9,30,0.0
+Grok 4,10,30,0.0
+GPT 5,1,1,6.643856189774724
+GPT 5,2,1,4.523561956057013
+GPT 5,3,1,3.0
+GPT 5,4,1,1.584962500721156
+GPT 5,5,1,1.0
+GPT 5,6,1,0.0
+GPT 5,7,1,0.0
+GPT 5,8,1,0.0
+GPT 5,9,1,0.0
+GPT 5,10,1,0.0
+GPT 5,1,2,6.643856189774724
+GPT 5,2,2,4.459431618637297
+GPT 5,3,2,3.321928094887362
+GPT 5,4,2,2.0
+GPT 5,5,2,1.0
+GPT 5,6,2,0.0
+GPT 5,7,2,0.0
+GPT 5,8,2,0.0
+GPT 5,9,2,0.0
+GPT 5,10,2,0.0
+GPT 5,1,3,6.643856189774724
+GPT 5,2,3,4.392317422778761
+GPT 5,3,3,2.807354922057604
+GPT 5,4,3,2.0
+GPT 5,5,3,0.0
+GPT 5,6,3,0.0
+GPT 5,7,3,0.0
+GPT 5,8,3,0.0
+GPT 5,9,3,0.0
+GPT 5,10,3,0.0
+GPT 5,1,4,6.643856189774724
+GPT 5,2,4,4.392317422778761
+GPT 5,3,4,3.169925001442312
+GPT 5,4,4,2.0
+GPT 5,5,4,1.584962500721156
+GPT 5,6,4,0.0
+GPT 5,7,4,0.0
+GPT 5,8,4,0.0
+GPT 5,9,4,0.0
+GPT 5,10,4,0.0
+GPT 5,1,5,6.643856189774724
+GPT 5,2,5,4.459431618637297
+GPT 5,3,5,2.807354922057604
+GPT 5,4,5,2.0
+GPT 5,5,5,1.0
+GPT 5,6,5,0.0
+GPT 5,7,5,0.0
+GPT 5,8,5,0.0
+GPT 5,9,5,0.0
+GPT 5,10,5,0.0
+GPT 5,1,6,6.643856189774724
+GPT 5,2,6,4.459431618637297
+GPT 5,3,6,2.807354922057604
+GPT 5,4,6,1.584962500721156
+GPT 5,5,6,1.0
+GPT 5,6,6,0.0
+GPT 5,7,6,0.0
+GPT 5,8,6,0.0
+GPT 5,9,6,0.0
+GPT 5,10,6,0.0
+GPT 5,1,7,6.643856189774724
+GPT 5,2,7,4.459431618637297
+GPT 5,3,7,2.584962500721156
+GPT 5,4,7,2.0
+GPT 5,5,7,1.0
+GPT 5,6,7,0.0
+GPT 5,7,7,0.0
+GPT 5,8,7,0.0
+GPT 5,9,7,0.0
+GPT 5,10,7,0.0
+GPT 5,1,8,6.643856189774724
+GPT 5,2,8,4.523561956057013
+GPT 5,3,8,3.0
+GPT 5,4,8,2.0
+GPT 5,5,8,1.584962500721156
+GPT 5,6,8,0.0
+GPT 5,7,8,0.0
+GPT 5,8,8,0.0
+GPT 5,9,8,0.0
+GPT 5,10,8,0.0
+GPT 5,1,9,6.643856189774724
+GPT 5,2,9,4.392317422778761
+GPT 5,3,9,2.807354922057604
+GPT 5,4,9,1.584962500721156
+GPT 5,5,9,1.0
+GPT 5,6,9,0.0
+GPT 5,7,9,0.0
+GPT 5,8,9,0.0
+GPT 5,9,9,0.0
+GPT 5,10,9,0.0
+GPT 5,1,10,6.643856189774724
+GPT 5,2,10,4.321928094887363
+GPT 5,3,10,2.807354922057604
+GPT 5,4,10,1.584962500721156
+GPT 5,5,10,0.0
+GPT 5,6,10,0.0
+GPT 5,7,10,0.0
+GPT 5,8,10,0.0
+GPT 5,9,10,0.0
+GPT 5,10,10,0.0
+GPT 5,1,11,6.643856189774724
+GPT 5,2,11,4.392317422778761
+GPT 5,3,11,3.0
+GPT 5,4,11,1.584962500721156
+GPT 5,5,11,1.0
+GPT 5,6,11,0.0
+GPT 5,7,11,0.0
+GPT 5,8,11,0.0
+GPT 5,9,11,0.0
+GPT 5,10,11,0.0
+GPT 5,1,12,6.643856189774724
+GPT 5,2,12,4.392317422778761
+GPT 5,3,12,2.807354922057604
+GPT 5,4,12,1.584962500721156
+GPT 5,5,12,1.0
+GPT 5,6,12,0.0
+GPT 5,7,12,0.0
+GPT 5,8,12,0.0
+GPT 5,9,12,0.0
+GPT 5,10,12,0.0
+GPT 5,1,13,6.643856189774724
+GPT 5,2,13,4.459431618637297
+GPT 5,3,13,2.321928094887362
+GPT 5,4,13,1.584962500721156
+GPT 5,5,13,1.0
+GPT 5,6,13,0.0
+GPT 5,7,13,0.0
+GPT 5,8,13,0.0
+GPT 5,9,13,0.0
+GPT 5,10,13,0.0
+GPT 5,1,14,6.643856189774724
+GPT 5,2,14,4.584962500721156
+GPT 5,3,14,2.321928094887362
+GPT 5,4,14,2.0
+GPT 5,5,14,1.584962500721156
+GPT 5,6,14,1.0
+GPT 5,7,14,0.0
+GPT 5,8,14,0.0
+GPT 5,9,14,0.0
+GPT 5,10,14,0.0
+GPT 5,1,15,6.643856189774724
+GPT 5,2,15,4.392317422778761
+GPT 5,3,15,2.807354922057604
+GPT 5,4,15,2.0
+GPT 5,5,15,0.0
+GPT 5,6,15,0.0
+GPT 5,7,15,0.0
+GPT 5,8,15,0.0
+GPT 5,9,15,0.0
+GPT 5,10,15,0.0
+GPT 5,1,16,6.643856189774724
+GPT 5,2,16,4.523561956057013
+GPT 5,3,16,2.584962500721156
+GPT 5,4,16,2.0
+GPT 5,5,16,1.0
+GPT 5,6,16,0.0
+GPT 5,7,16,0.0
+GPT 5,8,16,0.0
+GPT 5,9,16,0.0
+GPT 5,10,16,0.0
+GPT 5,1,17,6.643856189774724
+GPT 5,2,17,4.392317422778761
+GPT 5,3,17,2.807354922057604
+GPT 5,4,17,1.584962500721156
+GPT 5,5,17,1.0
+GPT 5,6,17,0.0
+GPT 5,7,17,0.0
+GPT 5,8,17,0.0
+GPT 5,9,17,0.0
+GPT 5,10,17,0.0
+GPT 5,1,18,6.643856189774724
+GPT 5,2,18,4.459431618637297
+GPT 5,3,18,3.0
+GPT 5,4,18,2.0
+GPT 5,5,18,1.0
+GPT 5,6,18,0.0
+GPT 5,7,18,0.0
+GPT 5,8,18,0.0
+GPT 5,9,18,0.0
+GPT 5,10,18,0.0
+GPT 5,1,19,6.643856189774724
+GPT 5,2,19,4.392317422778761
+GPT 5,3,19,2.807354922057604
+GPT 5,4,19,2.0
+GPT 5,5,19,1.584962500721156
+GPT 5,6,19,0.0
+GPT 5,7,19,0.0
+GPT 5,8,19,0.0
+GPT 5,9,19,0.0
+GPT 5,10,19,0.0
+GPT 5,1,20,6.643856189774724
+GPT 5,2,20,4.321928094887363
+GPT 5,3,20,2.321928094887362
+GPT 5,4,20,2.0
+GPT 5,5,20,1.0
+GPT 5,6,20,0.0
+GPT 5,7,20,0.0
+GPT 5,8,20,0.0
+GPT 5,9,20,0.0
+GPT 5,10,20,0.0
+GPT 5,1,21,6.643856189774724
+GPT 5,2,21,4.459431618637297
+GPT 5,3,21,2.584962500721156
+GPT 5,4,21,2.0
+GPT 5,5,21,1.0
+GPT 5,6,21,0.0
+GPT 5,7,21,0.0
+GPT 5,8,21,0.0
+GPT 5,9,21,0.0
+GPT 5,10,21,0.0
+GPT 5,1,22,6.643856189774724
+GPT 5,2,22,4.584962500721156
+GPT 5,3,22,2.321928094887362
+GPT 5,4,22,2.0
+GPT 5,5,22,1.584962500721156
+GPT 5,6,22,0.0
+GPT 5,7,22,0.0
+GPT 5,8,22,0.0
+GPT 5,9,22,0.0
+GPT 5,10,22,0.0
+GPT 5,1,23,6.643856189774724
+GPT 5,2,23,4.321928094887363
+GPT 5,3,23,3.0
+GPT 5,4,23,1.584962500721156
+GPT 5,5,23,1.0
+GPT 5,6,23,0.0
+GPT 5,7,23,0.0
+GPT 5,8,23,0.0
+GPT 5,9,23,0.0
+GPT 5,10,23,0.0
+GPT 5,1,24,6.643856189774724
+GPT 5,2,24,4.523561956057013
+GPT 5,3,24,2.807354922057604
+GPT 5,4,24,2.0
+GPT 5,5,24,1.0
+GPT 5,6,24,0.0
+GPT 5,7,24,0.0
+GPT 5,8,24,0.0
+GPT 5,9,24,0.0
+GPT 5,10,24,0.0
+GPT 5,1,25,6.643856189774724
+GPT 5,2,25,4.392317422778761
+GPT 5,3,25,2.807354922057604
+GPT 5,4,25,2.0
+GPT 5,5,25,1.0
+GPT 5,6,25,0.0
+GPT 5,7,25,0.0
+GPT 5,8,25,0.0
+GPT 5,9,25,0.0
+GPT 5,10,25,0.0
+GPT 5,1,26,6.643856189774724
+GPT 5,2,26,4.392317422778761
+GPT 5,3,26,2.584962500721156
+GPT 5,4,26,2.0
+GPT 5,5,26,1.0
+GPT 5,6,26,0.0
+GPT 5,7,26,0.0
+GPT 5,8,26,0.0
+GPT 5,9,26,0.0
+GPT 5,10,26,0.0
+GPT 5,1,27,6.643856189774724
+GPT 5,2,27,4.459431618637297
+GPT 5,3,27,3.169925001442312
+GPT 5,4,27,1.584962500721156
+GPT 5,5,27,1.0
+GPT 5,6,27,0.0
+GPT 5,7,27,0.0
+GPT 5,8,27,0.0
+GPT 5,9,27,0.0
+GPT 5,10,27,0.0
+GPT 5,1,28,6.643856189774724
+GPT 5,2,28,4.459431618637297
+GPT 5,3,28,3.0
+GPT 5,4,28,1.584962500721156
+GPT 5,5,28,1.0
+GPT 5,6,28,0.0
+GPT 5,7,28,0.0
+GPT 5,8,28,0.0
+GPT 5,9,28,0.0
+GPT 5,10,28,0.0
+GPT 5,1,29,6.643856189774724
+GPT 5,2,29,4.459431618637297
+GPT 5,3,29,2.584962500721156
+GPT 5,4,29,2.0
+GPT 5,5,29,1.0
+GPT 5,6,29,0.0
+GPT 5,7,29,0.0
+GPT 5,8,29,0.0
+GPT 5,9,29,0.0
+GPT 5,10,29,0.0
+GPT 5,1,30,6.643856189774724
+GPT 5,2,30,4.523561956057013
+GPT 5,3,30,3.0
+GPT 5,4,30,1.584962500721156
+GPT 5,5,30,1.0
+GPT 5,6,30,0.0
+GPT 5,7,30,0.0
+GPT 5,8,30,0.0
+GPT 5,9,30,0.0
+GPT 5,10,30,0.0
+Gemini 2.5 Pro,1,1,6.643856189774724
+Gemini 2.5 Pro,2,1,4.459431618637297
+Gemini 2.5 Pro,3,1,2.584962500721156
+Gemini 2.5 Pro,4,1,2.0
+Gemini 2.5 Pro,5,1,1.584962500721156
+Gemini 2.5 Pro,6,1,1.0
+Gemini 2.5 Pro,7,1,0.0
+Gemini 2.5 Pro,8,1,0.0
+Gemini 2.5 Pro,9,1,0.0
+Gemini 2.5 Pro,10,1,0.0
+Gemini 2.5 Pro,1,2,6.643856189774724
+Gemini 2.5 Pro,2,2,4.584962500721156
+Gemini 2.5 Pro,3,2,2.807354922057604
+Gemini 2.5 Pro,4,2,1.584962500721156
+Gemini 2.5 Pro,5,2,1.0
+Gemini 2.5 Pro,6,2,0.0
+Gemini 2.5 Pro,7,2,0.0
+Gemini 2.5 Pro,8,2,0.0
+Gemini 2.5 Pro,9,2,0.0
+Gemini 2.5 Pro,10,2,0.0
+Gemini 2.5 Pro,1,3,6.643856189774724
+Gemini 2.5 Pro,2,3,4.459431618637297
+Gemini 2.5 Pro,3,3,3.169925001442312
+Gemini 2.5 Pro,4,3,1.584962500721156
+Gemini 2.5 Pro,5,3,1.0
+Gemini 2.5 Pro,6,3,0.0
+Gemini 2.5 Pro,7,3,0.0
+Gemini 2.5 Pro,8,3,0.0
+Gemini 2.5 Pro,9,3,0.0
+Gemini 2.5 Pro,10,3,0.0
+Gemini 2.5 Pro,1,4,6.643856189774724
+Gemini 2.5 Pro,2,4,4.459431618637297
+Gemini 2.5 Pro,3,4,3.169925001442312
+Gemini 2.5 Pro,4,4,2.0
+Gemini 2.5 Pro,5,4,1.584962500721156
+Gemini 2.5 Pro,6,4,1.0
+Gemini 2.5 Pro,7,4,0.0
+Gemini 2.5 Pro,8,4,0.0
+Gemini 2.5 Pro,9,4,0.0
+Gemini 2.5 Pro,10,4,0.0
+Gemini 2.5 Pro,1,5,6.643856189774724
+Gemini 2.5 Pro,2,5,4.584962500721156
+Gemini 2.5 Pro,3,5,3.0
+Gemini 2.5 Pro,4,5,1.584962500721156
+Gemini 2.5 Pro,5,5,1.0
+Gemini 2.5 Pro,6,5,0.0
+Gemini 2.5 Pro,7,5,0.0
+Gemini 2.5 Pro,8,5,0.0
+Gemini 2.5 Pro,9,5,0.0
+Gemini 2.5 Pro,10,5,0.0
+Gemini 2.5 Pro,1,6,6.643856189774724
+Gemini 2.5 Pro,2,6,4.459431618637297
+Gemini 2.5 Pro,3,6,3.321928094887362
+Gemini 2.5 Pro,4,6,1.584962500721156
+Gemini 2.5 Pro,5,6,1.0
+Gemini 2.5 Pro,6,6,0.0
+Gemini 2.5 Pro,7,6,0.0
+Gemini 2.5 Pro,8,6,0.0
+Gemini 2.5 Pro,9,6,0.0
+Gemini 2.5 Pro,10,6,0.0
+Gemini 2.5 Pro,1,7,6.643856189774724
+Gemini 2.5 Pro,2,7,4.392317422778761
+Gemini 2.5 Pro,3,7,2.807354922057604
+Gemini 2.5 Pro,4,7,1.0
+Gemini 2.5 Pro,5,7,0.0
+Gemini 2.5 Pro,6,7,0.0
+Gemini 2.5 Pro,7,7,0.0
+Gemini 2.5 Pro,8,7,0.0
+Gemini 2.5 Pro,9,7,0.0
+Gemini 2.5 Pro,10,7,0.0
+Gemini 2.5 Pro,1,8,6.643856189774724
+Gemini 2.5 Pro,2,8,4.321928094887363
+Gemini 2.5 Pro,3,8,3.0
+Gemini 2.5 Pro,4,8,2.0
+Gemini 2.5 Pro,5,8,1.584962500721156
+Gemini 2.5 Pro,6,8,1.0
+Gemini 2.5 Pro,7,8,0.0
+Gemini 2.5 Pro,8,8,0.0
+Gemini 2.5 Pro,9,8,0.0
+Gemini 2.5 Pro,10,8,0.0
+Gemini 2.5 Pro,1,9,6.643856189774724
+Gemini 2.5 Pro,2,9,4.321928094887363
+Gemini 2.5 Pro,3,9,3.169925001442312
+Gemini 2.5 Pro,4,9,1.584962500721156
+Gemini 2.5 Pro,5,9,1.0
+Gemini 2.5 Pro,6,9,0.0
+Gemini 2.5 Pro,7,9,0.0
+Gemini 2.5 Pro,8,9,0.0
+Gemini 2.5 Pro,9,9,0.0
+Gemini 2.5 Pro,10,9,0.0
+Gemini 2.5 Pro,1,10,6.643856189774724
+Gemini 2.5 Pro,2,10,4.392317422778761
+Gemini 2.5 Pro,3,10,3.169925001442312
+Gemini 2.5 Pro,4,10,2.0
+Gemini 2.5 Pro,5,10,1.584962500721156
+Gemini 2.5 Pro,6,10,1.0
+Gemini 2.5 Pro,7,10,0.0
+Gemini 2.5 Pro,8,10,0.0
+Gemini 2.5 Pro,9,10,0.0
+Gemini 2.5 Pro,10,10,0.0
+Gemini 2.5 Pro,1,11,6.643856189774724
+Gemini 2.5 Pro,2,11,4.459431618637297
+Gemini 2.5 Pro,3,11,3.0
+Gemini 2.5 Pro,4,11,1.0
+Gemini 2.5 Pro,5,11,0.0
+Gemini 2.5 Pro,6,11,0.0
+Gemini 2.5 Pro,7,11,0.0
+Gemini 2.5 Pro,8,11,0.0
+Gemini 2.5 Pro,9,11,0.0
+Gemini 2.5 Pro,10,11,0.0
+Gemini 2.5 Pro,1,12,6.643856189774724
+Gemini 2.5 Pro,2,12,4.459431618637297
+Gemini 2.5 Pro,3,12,3.321928094887362
+Gemini 2.5 Pro,4,12,1.584962500721156
+Gemini 2.5 Pro,5,12,1.0
+Gemini 2.5 Pro,6,12,0.0
+Gemini 2.5 Pro,7,12,0.0
+Gemini 2.5 Pro,8,12,0.0
+Gemini 2.5 Pro,9,12,0.0
+Gemini 2.5 Pro,10,12,0.0
+Gemini 2.5 Pro,1,13,6.643856189774724
+Gemini 2.5 Pro,2,13,4.584962500721156
+Gemini 2.5 Pro,3,13,3.0
+Gemini 2.5 Pro,4,13,1.584962500721156
+Gemini 2.5 Pro,5,13,1.0
+Gemini 2.5 Pro,6,13,0.0
+Gemini 2.5 Pro,7,13,0.0
+Gemini 2.5 Pro,8,13,0.0
+Gemini 2.5 Pro,9,13,0.0
+Gemini 2.5 Pro,10,13,0.0
+Gemini 2.5 Pro,1,14,6.643856189774724
+Gemini 2.5 Pro,2,14,4.392317422778761
+Gemini 2.5 Pro,3,14,3.0
+Gemini 2.5 Pro,4,14,2.0
+Gemini 2.5 Pro,5,14,1.584962500721156
+Gemini 2.5 Pro,6,14,1.0
+Gemini 2.5 Pro,7,14,0.0
+Gemini 2.5 Pro,8,14,0.0
+Gemini 2.5 Pro,9,14,0.0
+Gemini 2.5 Pro,10,14,0.0
+Gemini 2.5 Pro,1,15,6.643856189774724
+Gemini 2.5 Pro,2,15,4.523561956057013
+Gemini 2.5 Pro,3,15,3.0
+Gemini 2.5 Pro,4,15,1.0
+Gemini 2.5 Pro,5,15,0.0
+Gemini 2.5 Pro,6,15,0.0
+Gemini 2.5 Pro,7,15,0.0
+Gemini 2.5 Pro,8,15,0.0
+Gemini 2.5 Pro,9,15,0.0
+Gemini 2.5 Pro,10,15,0.0
+Gemini 2.5 Pro,1,16,6.643856189774724
+Gemini 2.5 Pro,2,16,4.459431618637297
+Gemini 2.5 Pro,3,16,3.0
+Gemini 2.5 Pro,4,16,1.584962500721156
+Gemini 2.5 Pro,5,16,1.0
+Gemini 2.5 Pro,6,16,0.0
+Gemini 2.5 Pro,7,16,0.0
+Gemini 2.5 Pro,8,16,0.0
+Gemini 2.5 Pro,9,16,0.0
+Gemini 2.5 Pro,10,16,0.0
+Gemini 2.5 Pro,1,17,6.643856189774724
+Gemini 2.5 Pro,2,17,4.459431618637297
+Gemini 2.5 Pro,3,17,2.584962500721156
+Gemini 2.5 Pro,4,17,1.584962500721156
+Gemini 2.5 Pro,5,17,1.0
+Gemini 2.5 Pro,6,17,0.0
+Gemini 2.5 Pro,7,17,0.0
+Gemini 2.5 Pro,8,17,0.0
+Gemini 2.5 Pro,9,17,0.0
+Gemini 2.5 Pro,10,17,0.0
+Gemini 2.5 Pro,1,18,6.643856189774724
+Gemini 2.5 Pro,2,18,4.321928094887363
+Gemini 2.5 Pro,3,18,2.807354922057604
+Gemini 2.5 Pro,4,18,1.584962500721156
+Gemini 2.5 Pro,5,18,1.0
+Gemini 2.5 Pro,6,18,0.0
+Gemini 2.5 Pro,7,18,0.0
+Gemini 2.5 Pro,8,18,0.0
+Gemini 2.5 Pro,9,18,0.0
+Gemini 2.5 Pro,10,18,0.0
+Gemini 2.5 Pro,1,19,6.643856189774724
+Gemini 2.5 Pro,2,19,4.584962500721156
+Gemini 2.5 Pro,3,19,2.807354922057604
+Gemini 2.5 Pro,4,19,2.321928094887362
+Gemini 2.5 Pro,5,19,2.0
+Gemini 2.5 Pro,6,19,1.0
+Gemini 2.5 Pro,7,19,0.0
+Gemini 2.5 Pro,8,19,0.0
+Gemini 2.5 Pro,9,19,0.0
+Gemini 2.5 Pro,10,19,0.0
+Gemini 2.5 Pro,1,20,6.643856189774724
+Gemini 2.5 Pro,2,20,4.459431618637297
+Gemini 2.5 Pro,3,20,3.0
+Gemini 2.5 Pro,4,20,1.0
+Gemini 2.5 Pro,5,20,0.0
+Gemini 2.5 Pro,6,20,0.0
+Gemini 2.5 Pro,7,20,0.0
+Gemini 2.5 Pro,8,20,0.0
+Gemini 2.5 Pro,9,20,0.0
+Gemini 2.5 Pro,10,20,0.0
+Gemini 2.5 Pro,1,21,6.643856189774724
+Gemini 2.5 Pro,2,21,4.523561956057013
+Gemini 2.5 Pro,3,21,3.169925001442312
+Gemini 2.5 Pro,4,21,1.584962500721156
+Gemini 2.5 Pro,5,21,1.0
+Gemini 2.5 Pro,6,21,0.0
+Gemini 2.5 Pro,7,21,0.0
+Gemini 2.5 Pro,8,21,0.0
+Gemini 2.5 Pro,9,21,0.0
+Gemini 2.5 Pro,10,21,0.0
+Gemini 2.5 Pro,1,22,6.643856189774724
+Gemini 2.5 Pro,2,22,4.459431618637297
+Gemini 2.5 Pro,3,22,3.169925001442312
+Gemini 2.5 Pro,4,22,1.584962500721156
+Gemini 2.5 Pro,5,22,1.0
+Gemini 2.5 Pro,6,22,0.0
+Gemini 2.5 Pro,7,22,0.0
+Gemini 2.5 Pro,8,22,0.0
+Gemini 2.5 Pro,9,22,0.0
+Gemini 2.5 Pro,10,22,0.0
+Gemini 2.5 Pro,1,23,6.643856189774724
+Gemini 2.5 Pro,2,23,4.459431618637297
+Gemini 2.5 Pro,3,23,3.321928094887362
+Gemini 2.5 Pro,4,23,1.584962500721156
+Gemini 2.5 Pro,5,23,1.0
+Gemini 2.5 Pro,6,23,0.0
+Gemini 2.5 Pro,7,23,0.0
+Gemini 2.5 Pro,8,23,0.0
+Gemini 2.5 Pro,9,23,0.0
+Gemini 2.5 Pro,10,23,0.0
+Gemini 2.5 Pro,1,24,6.643856189774724
+Gemini 2.5 Pro,2,24,4.459431618637297
+Gemini 2.5 Pro,3,24,3.169925001442312
+Gemini 2.5 Pro,4,24,2.0
+Gemini 2.5 Pro,5,24,1.584962500721156
+Gemini 2.5 Pro,6,24,1.0
+Gemini 2.5 Pro,7,24,0.0
+Gemini 2.5 Pro,8,24,0.0
+Gemini 2.5 Pro,9,24,0.0
+Gemini 2.5 Pro,10,24,0.0
+Gemini 2.5 Pro,1,25,6.643856189774724
+Gemini 2.5 Pro,2,25,4.169925001442312
+Gemini 2.5 Pro,3,25,2.584962500721156
+Gemini 2.5 Pro,4,25,1.584962500721156
+Gemini 2.5 Pro,5,25,1.0
+Gemini 2.5 Pro,6,25,0.0
+Gemini 2.5 Pro,7,25,0.0
+Gemini 2.5 Pro,8,25,0.0
+Gemini 2.5 Pro,9,25,0.0
+Gemini 2.5 Pro,10,25,0.0
+Gemini 2.5 Pro,1,26,6.643856189774724
+Gemini 2.5 Pro,2,26,4.459431618637297
+Gemini 2.5 Pro,3,26,3.169925001442312
+Gemini 2.5 Pro,4,26,1.584962500721156
+Gemini 2.5 Pro,5,26,1.0
+Gemini 2.5 Pro,6,26,0.0
+Gemini 2.5 Pro,7,26,0.0
+Gemini 2.5 Pro,8,26,0.0
+Gemini 2.5 Pro,9,26,0.0
+Gemini 2.5 Pro,10,26,0.0
+Gemini 2.5 Pro,1,27,6.643856189774724
+Gemini 2.5 Pro,2,27,4.459431618637297
+Gemini 2.5 Pro,3,27,3.169925001442312
+Gemini 2.5 Pro,4,27,2.0
+Gemini 2.5 Pro,5,27,1.584962500721156
+Gemini 2.5 Pro,6,27,1.0
+Gemini 2.5 Pro,7,27,0.0
+Gemini 2.5 Pro,8,27,0.0
+Gemini 2.5 Pro,9,27,0.0
+Gemini 2.5 Pro,10,27,0.0
+Gemini 2.5 Pro,1,28,6.643856189774724
+Gemini 2.5 Pro,2,28,4.321928094887363
+Gemini 2.5 Pro,3,28,3.169925001442312
+Gemini 2.5 Pro,4,28,1.584962500721156
+Gemini 2.5 Pro,5,28,1.0
+Gemini 2.5 Pro,6,28,0.0
+Gemini 2.5 Pro,7,28,0.0
+Gemini 2.5 Pro,8,28,0.0
+Gemini 2.5 Pro,9,28,0.0
+Gemini 2.5 Pro,10,28,0.0
+Gemini 2.5 Pro,1,29,6.643856189774724
+Gemini 2.5 Pro,2,29,4.523561956057013
+Gemini 2.5 Pro,3,29,2.807354922057604
+Gemini 2.5 Pro,4,29,2.0
+Gemini 2.5 Pro,5,29,1.584962500721156
+Gemini 2.5 Pro,6,29,1.0
+Gemini 2.5 Pro,7,29,0.0
+Gemini 2.5 Pro,8,29,0.0
+Gemini 2.5 Pro,9,29,0.0
+Gemini 2.5 Pro,10,29,0.0
+Gemini 2.5 Pro,1,30,6.643856189774724
+Gemini 2.5 Pro,2,30,4.459431618637297
+Gemini 2.5 Pro,3,30,3.169925001442312
+Gemini 2.5 Pro,4,30,1.584962500721156
+Gemini 2.5 Pro,5,30,1.0
+Gemini 2.5 Pro,6,30,0.0
+Gemini 2.5 Pro,7,30,0.0
+Gemini 2.5 Pro,8,30,0.0
+Gemini 2.5 Pro,9,30,0.0
+Gemini 2.5 Pro,10,30,0.0
+Claude Sonnet 4.5,1,1,6.643856189774724
+Claude Sonnet 4.5,2,1,4.392317422778761
+Claude Sonnet 4.5,3,1,3.0
+Claude Sonnet 4.5,4,1,2.321928094887362
+Claude Sonnet 4.5,5,1,1.584962500721156
+Claude Sonnet 4.5,6,1,1.0
+Claude Sonnet 4.5,7,1,0.0
+Claude Sonnet 4.5,8,1,0.0
+Claude Sonnet 4.5,9,1,0.0
+Claude Sonnet 4.5,10,1,0.0
+Claude Sonnet 4.5,1,2,6.643856189774724
+Claude Sonnet 4.5,2,2,4.459431618637297
+Claude Sonnet 4.5,3,2,3.169925001442312
+Claude Sonnet 4.5,4,2,2.0
+Claude Sonnet 4.5,5,2,1.584962500721156
+Claude Sonnet 4.5,6,2,1.0
+Claude Sonnet 4.5,7,2,0.0
+Claude Sonnet 4.5,8,2,0.0
+Claude Sonnet 4.5,9,2,0.0
+Claude Sonnet 4.5,10,2,0.0
+Claude Sonnet 4.5,1,3,6.643856189774724
+Claude Sonnet 4.5,2,3,4.523561956057013
+Claude Sonnet 4.5,3,3,3.169925001442312
+Claude Sonnet 4.5,4,3,2.321928094887362
+Claude Sonnet 4.5,5,3,1.584962500721156
+Claude Sonnet 4.5,6,3,1.0
+Claude Sonnet 4.5,7,3,0.0
+Claude Sonnet 4.5,8,3,0.0
+Claude Sonnet 4.5,9,3,0.0
+Claude Sonnet 4.5,10,3,0.0
+Claude Sonnet 4.5,1,4,6.643856189774724
+Claude Sonnet 4.5,2,4,4.523561956057013
+Claude Sonnet 4.5,3,4,3.584962500721156
+Claude Sonnet 4.5,4,4,2.0
+Claude Sonnet 4.5,5,4,1.584962500721156
+Claude Sonnet 4.5,6,4,1.0
+Claude Sonnet 4.5,7,4,0.0
+Claude Sonnet 4.5,8,4,0.0
+Claude Sonnet 4.5,9,4,0.0
+Claude Sonnet 4.5,10,4,0.0
+Claude Sonnet 4.5,1,5,6.643856189774724
+Claude Sonnet 4.5,2,5,4.523561956057013
+Claude Sonnet 4.5,3,5,2.584962500721156
+Claude Sonnet 4.5,4,5,2.0
+Claude Sonnet 4.5,5,5,1.584962500721156
+Claude Sonnet 4.5,6,5,1.0
+Claude Sonnet 4.5,7,5,0.0
+Claude Sonnet 4.5,8,5,0.0
+Claude Sonnet 4.5,9,5,0.0
+Claude Sonnet 4.5,10,5,0.0
+Claude Sonnet 4.5,1,6,6.643856189774724
+Claude Sonnet 4.5,2,6,4.523561956057013
+Claude Sonnet 4.5,3,6,3.584962500721156
+Claude Sonnet 4.5,4,6,1.584962500721156
+Claude Sonnet 4.5,5,6,1.0
+Claude Sonnet 4.5,6,6,0.0
+Claude Sonnet 4.5,7,6,0.0
+Claude Sonnet 4.5,8,6,0.0
+Claude Sonnet 4.5,9,6,0.0
+Claude Sonnet 4.5,10,6,0.0
+Claude Sonnet 4.5,1,7,6.643856189774724
+Claude Sonnet 4.5,2,7,4.321928094887363
+Claude Sonnet 4.5,3,7,3.0
+Claude Sonnet 4.5,4,7,2.321928094887362
+Claude Sonnet 4.5,5,7,2.0
+Claude Sonnet 4.5,6,7,1.0
+Claude Sonnet 4.5,7,7,0.0
+Claude Sonnet 4.5,8,7,0.0
+Claude Sonnet 4.5,9,7,0.0
+Claude Sonnet 4.5,10,7,0.0
+Claude Sonnet 4.5,1,8,6.643856189774724
+Claude Sonnet 4.5,2,8,4.459431618637297
+Claude Sonnet 4.5,3,8,3.321928094887362
+Claude Sonnet 4.5,4,8,2.321928094887362
+Claude Sonnet 4.5,5,8,1.584962500721156
+Claude Sonnet 4.5,6,8,1.0
+Claude Sonnet 4.5,7,8,0.0
+Claude Sonnet 4.5,8,8,0.0
+Claude Sonnet 4.5,9,8,0.0
+Claude Sonnet 4.5,10,8,0.0
+Claude Sonnet 4.5,1,9,6.643856189774724
+Claude Sonnet 4.5,2,9,4.523561956057013
+Claude Sonnet 4.5,3,9,3.0
+Claude Sonnet 4.5,4,9,2.321928094887362
+Claude Sonnet 4.5,5,9,1.584962500721156
+Claude Sonnet 4.5,6,9,1.0
+Claude Sonnet 4.5,7,9,0.0
+Claude Sonnet 4.5,8,9,0.0
+Claude Sonnet 4.5,9,9,0.0
+Claude Sonnet 4.5,10,9,0.0
+Claude Sonnet 4.5,1,10,6.643856189774724
+Claude Sonnet 4.5,2,10,4.523561956057013
+Claude Sonnet 4.5,3,10,3.169925001442312
+Claude Sonnet 4.5,4,10,2.0
+Claude Sonnet 4.5,5,10,1.584962500721156
+Claude Sonnet 4.5,6,10,1.0
+Claude Sonnet 4.5,7,10,0.0
+Claude Sonnet 4.5,8,10,0.0
+Claude Sonnet 4.5,9,10,0.0
+Claude Sonnet 4.5,10,10,0.0
+Claude Sonnet 4.5,1,11,6.643856189774724
+Claude Sonnet 4.5,2,11,4.392317422778761
+Claude Sonnet 4.5,3,11,3.321928094887362
+Claude Sonnet 4.5,4,11,2.321928094887362
+Claude Sonnet 4.5,5,11,1.584962500721156
+Claude Sonnet 4.5,6,11,1.0
+Claude Sonnet 4.5,7,11,0.0
+Claude Sonnet 4.5,8,11,0.0
+Claude Sonnet 4.5,9,11,0.0
+Claude Sonnet 4.5,10,11,0.0
+Claude Sonnet 4.5,1,12,6.643856189774724
+Claude Sonnet 4.5,2,12,4.459431618637297
+Claude Sonnet 4.5,3,12,3.0
+Claude Sonnet 4.5,4,12,2.321928094887362
+Claude Sonnet 4.5,5,12,2.0
+Claude Sonnet 4.5,6,12,0.0
+Claude Sonnet 4.5,7,12,0.0
+Claude Sonnet 4.5,8,12,0.0
+Claude Sonnet 4.5,9,12,0.0
+Claude Sonnet 4.5,10,12,0.0
+Claude Sonnet 4.5,1,13,6.643856189774724
+Claude Sonnet 4.5,2,13,4.392317422778761
+Claude Sonnet 4.5,3,13,3.321928094887362
+Claude Sonnet 4.5,4,13,2.0
+Claude Sonnet 4.5,5,13,1.584962500721156
+Claude Sonnet 4.5,6,13,1.0
+Claude Sonnet 4.5,7,13,0.0
+Claude Sonnet 4.5,8,13,0.0
+Claude Sonnet 4.5,9,13,0.0
+Claude Sonnet 4.5,10,13,0.0
+Claude Sonnet 4.5,1,14,6.643856189774724
+Claude Sonnet 4.5,2,14,4.321928094887363
+Claude Sonnet 4.5,3,14,3.0
+Claude Sonnet 4.5,4,14,2.0
+Claude Sonnet 4.5,5,14,1.584962500721156
+Claude Sonnet 4.5,6,14,1.0
+Claude Sonnet 4.5,7,14,0.0
+Claude Sonnet 4.5,8,14,0.0
+Claude Sonnet 4.5,9,14,0.0
+Claude Sonnet 4.5,10,14,0.0
+Claude Sonnet 4.5,1,15,6.643856189774724
+Claude Sonnet 4.5,2,15,4.392317422778761
+Claude Sonnet 4.5,3,15,3.169925001442312
+Claude Sonnet 4.5,4,15,2.0
+Claude Sonnet 4.5,5,15,1.584962500721156
+Claude Sonnet 4.5,6,15,1.0
+Claude Sonnet 4.5,7,15,0.0
+Claude Sonnet 4.5,8,15,0.0
+Claude Sonnet 4.5,9,15,0.0
+Claude Sonnet 4.5,10,15,0.0
+Claude Sonnet 4.5,1,16,6.643856189774724
+Claude Sonnet 4.5,2,16,4.584962500721156
+Claude Sonnet 4.5,3,16,3.4594316186372973
+Claude Sonnet 4.5,4,16,2.0
+Claude Sonnet 4.5,5,16,1.584962500721156
+Claude Sonnet 4.5,6,16,1.0
+Claude Sonnet 4.5,7,16,0.0
+Claude Sonnet 4.5,8,16,0.0
+Claude Sonnet 4.5,9,16,0.0
+Claude Sonnet 4.5,10,16,0.0
+Claude Sonnet 4.5,1,17,6.643856189774724
+Claude Sonnet 4.5,2,17,4.392317422778761
+Claude Sonnet 4.5,3,17,3.0
+Claude Sonnet 4.5,4,17,2.321928094887362
+Claude Sonnet 4.5,5,17,1.584962500721156
+Claude Sonnet 4.5,6,17,1.0
+Claude Sonnet 4.5,7,17,0.0
+Claude Sonnet 4.5,8,17,0.0
+Claude Sonnet 4.5,9,17,0.0
+Claude Sonnet 4.5,10,17,0.0
+Claude Sonnet 4.5,1,18,6.643856189774724
+Claude Sonnet 4.5,2,18,4.459431618637297
+Claude Sonnet 4.5,3,18,3.169925001442312
+Claude Sonnet 4.5,4,18,2.321928094887362
+Claude Sonnet 4.5,5,18,2.0
+Claude Sonnet 4.5,6,18,1.0
+Claude Sonnet 4.5,7,18,0.0
+Claude Sonnet 4.5,8,18,0.0
+Claude Sonnet 4.5,9,18,0.0
+Claude Sonnet 4.5,10,18,0.0
+Claude Sonnet 4.5,1,19,6.643856189774724
+Claude Sonnet 4.5,2,19,4.459431618637297
+Claude Sonnet 4.5,3,19,3.321928094887362
+Claude Sonnet 4.5,4,19,2.321928094887362
+Claude Sonnet 4.5,5,19,1.584962500721156
+Claude Sonnet 4.5,6,19,1.0
+Claude Sonnet 4.5,7,19,0.0
+Claude Sonnet 4.5,8,19,0.0
+Claude Sonnet 4.5,9,19,0.0
+Claude Sonnet 4.5,10,19,0.0
+Claude Sonnet 4.5,1,20,6.643856189774724
+Claude Sonnet 4.5,2,20,4.392317422778761
+Claude Sonnet 4.5,3,20,3.0
+Claude Sonnet 4.5,4,20,2.321928094887362
+Claude Sonnet 4.5,5,20,2.0
+Claude Sonnet 4.5,6,20,0.0
+Claude Sonnet 4.5,7,20,0.0
+Claude Sonnet 4.5,8,20,0.0
+Claude Sonnet 4.5,9,20,0.0
+Claude Sonnet 4.5,10,20,0.0
+Claude Sonnet 4.5,1,21,6.643856189774724
+Claude Sonnet 4.5,2,21,4.523561956057013
+Claude Sonnet 4.5,3,21,3.169925001442312
+Claude Sonnet 4.5,4,21,2.321928094887362
+Claude Sonnet 4.5,5,21,1.584962500721156
+Claude Sonnet 4.5,6,21,1.0
+Claude Sonnet 4.5,7,21,0.0
+Claude Sonnet 4.5,8,21,0.0
+Claude Sonnet 4.5,9,21,0.0
+Claude Sonnet 4.5,10,21,0.0
+Claude Sonnet 4.5,1,22,6.643856189774724
+Claude Sonnet 4.5,2,22,4.523561956057013
+Claude Sonnet 4.5,3,22,3.4594316186372973
+Claude Sonnet 4.5,4,22,2.321928094887362
+Claude Sonnet 4.5,5,22,1.584962500721156
+Claude Sonnet 4.5,6,22,1.0
+Claude Sonnet 4.5,7,22,0.0
+Claude Sonnet 4.5,8,22,0.0
+Claude Sonnet 4.5,9,22,0.0
+Claude Sonnet 4.5,10,22,0.0
+Claude Sonnet 4.5,1,23,6.643856189774724
+Claude Sonnet 4.5,2,23,4.392317422778761
+Claude Sonnet 4.5,3,23,3.169925001442312
+Claude Sonnet 4.5,4,23,2.321928094887362
+Claude Sonnet 4.5,5,23,2.0
+Claude Sonnet 4.5,6,23,1.0
+Claude Sonnet 4.5,7,23,0.0
+Claude Sonnet 4.5,8,23,0.0
+Claude Sonnet 4.5,9,23,0.0
+Claude Sonnet 4.5,10,23,0.0
+Claude Sonnet 4.5,1,24,6.643856189774724
+Claude Sonnet 4.5,2,24,4.392317422778761
+Claude Sonnet 4.5,3,24,3.584962500721156
+Claude Sonnet 4.5,4,24,2.321928094887362
+Claude Sonnet 4.5,5,24,2.0
+Claude Sonnet 4.5,6,24,1.584962500721156
+Claude Sonnet 4.5,7,24,1.0
+Claude Sonnet 4.5,8,24,0.0
+Claude Sonnet 4.5,9,24,0.0
+Claude Sonnet 4.5,10,24,0.0
+Claude Sonnet 4.5,1,25,6.643856189774724
+Claude Sonnet 4.5,2,25,4.584962500721156
+Claude Sonnet 4.5,3,25,3.321928094887362
+Claude Sonnet 4.5,4,25,2.321928094887362
+Claude Sonnet 4.5,5,25,2.0
+Claude Sonnet 4.5,6,25,1.0
+Claude Sonnet 4.5,7,25,0.0
+Claude Sonnet 4.5,8,25,0.0
+Claude Sonnet 4.5,9,25,0.0
+Claude Sonnet 4.5,10,25,0.0
+Claude Sonnet 4.5,1,26,6.643856189774724
+Claude Sonnet 4.5,2,26,4.392317422778761
+Claude Sonnet 4.5,3,26,3.321928094887362
+Claude Sonnet 4.5,4,26,2.321928094887362
+Claude Sonnet 4.5,5,26,2.0
+Claude Sonnet 4.5,6,26,1.0
+Claude Sonnet 4.5,7,26,0.0
+Claude Sonnet 4.5,8,26,0.0
+Claude Sonnet 4.5,9,26,0.0
+Claude Sonnet 4.5,10,26,0.0
+Claude Sonnet 4.5,1,27,6.643856189774724
+Claude Sonnet 4.5,2,27,4.321928094887363
+Claude Sonnet 4.5,3,27,2.807354922057604
+Claude Sonnet 4.5,4,27,2.321928094887362
+Claude Sonnet 4.5,5,27,1.584962500721156
+Claude Sonnet 4.5,6,27,1.0
+Claude Sonnet 4.5,7,27,0.0
+Claude Sonnet 4.5,8,27,0.0
+Claude Sonnet 4.5,9,27,0.0
+Claude Sonnet 4.5,10,27,0.0
+Claude Sonnet 4.5,1,28,6.643856189774724
+Claude Sonnet 4.5,2,28,4.584962500721156
+Claude Sonnet 4.5,3,28,3.321928094887362
+Claude Sonnet 4.5,4,28,2.321928094887362
+Claude Sonnet 4.5,5,28,1.584962500721156
+Claude Sonnet 4.5,6,28,1.0
+Claude Sonnet 4.5,7,28,0.0
+Claude Sonnet 4.5,8,28,0.0
+Claude Sonnet 4.5,9,28,0.0
+Claude Sonnet 4.5,10,28,0.0
+Claude Sonnet 4.5,1,29,6.643856189774724
+Claude Sonnet 4.5,2,29,4.392317422778761
+Claude Sonnet 4.5,3,29,3.169925001442312
+Claude Sonnet 4.5,4,29,2.321928094887362
+Claude Sonnet 4.5,5,29,1.584962500721156
+Claude Sonnet 4.5,6,29,1.0
+Claude Sonnet 4.5,7,29,0.0
+Claude Sonnet 4.5,8,29,0.0
+Claude Sonnet 4.5,9,29,0.0
+Claude Sonnet 4.5,10,29,0.0
+Claude Sonnet 4.5,1,30,6.643856189774724
+Claude Sonnet 4.5,2,30,4.321928094887363
+Claude Sonnet 4.5,3,30,3.321928094887362
+Claude Sonnet 4.5,4,30,2.321928094887362
+Claude Sonnet 4.5,5,30,1.584962500721156
+Claude Sonnet 4.5,6,30,1.0
+Claude Sonnet 4.5,7,30,0.0
+Claude Sonnet 4.5,8,30,0.0
+Claude Sonnet 4.5,9,30,0.0
+Claude Sonnet 4.5,10,30,0.0
+Oracle (Optimal),1,1,6.643856189774724
+Oracle (Optimal),2,1,3.807354922057604
+Oracle (Optimal),3,1,2.0
+Oracle (Optimal),4,1,1.0
+Oracle (Optimal),5,1,0.0
+Oracle (Optimal),6,1,0.0
+Oracle (Optimal),7,1,0.0
+Oracle (Optimal),8,1,0.0
+Oracle (Optimal),9,1,0.0
+Oracle (Optimal),10,1,0.0
+Oracle (Optimal),1,2,6.643856189774724
+Oracle (Optimal),2,2,4.169925001442312
+Oracle (Optimal),3,2,2.0
+Oracle (Optimal),4,2,0.0
+Oracle (Optimal),5,2,0.0
+Oracle (Optimal),6,2,0.0
+Oracle (Optimal),7,2,0.0
+Oracle (Optimal),8,2,0.0
+Oracle (Optimal),9,2,0.0
+Oracle (Optimal),10,2,0.0
+Oracle (Optimal),1,3,6.643856189774724
+Oracle (Optimal),2,3,4.754887502163468
+Oracle (Optimal),3,3,2.807354922057604
+Oracle (Optimal),4,3,1.0
+Oracle (Optimal),5,3,0.0
+Oracle (Optimal),6,3,0.0
+Oracle (Optimal),7,3,0.0
+Oracle (Optimal),8,3,0.0
+Oracle (Optimal),9,3,0.0
+Oracle (Optimal),10,3,0.0
+Oracle (Optimal),1,4,6.643856189774724
+Oracle (Optimal),2,4,4.087462841250339
+Oracle (Optimal),3,4,2.321928094887362
+Oracle (Optimal),4,4,1.0
+Oracle (Optimal),5,4,0.0
+Oracle (Optimal),6,4,0.0
+Oracle (Optimal),7,4,0.0
+Oracle (Optimal),8,4,0.0
+Oracle (Optimal),9,4,0.0
+Oracle (Optimal),10,4,0.0
+Oracle (Optimal),1,5,6.643856189774724
+Oracle (Optimal),2,5,4.584962500721156
+Oracle (Optimal),3,5,1.0
+Oracle (Optimal),4,5,0.0
+Oracle (Optimal),5,5,0.0
+Oracle (Optimal),6,5,0.0
+Oracle (Optimal),7,5,0.0
+Oracle (Optimal),8,5,0.0
+Oracle (Optimal),9,5,0.0
+Oracle (Optimal),10,5,0.0
+Oracle (Optimal),1,6,6.643856189774724
+Oracle (Optimal),2,6,4.169925001442312
+Oracle (Optimal),3,6,2.0
+Oracle (Optimal),4,6,0.0
+Oracle (Optimal),5,6,0.0
+Oracle (Optimal),6,6,0.0
+Oracle (Optimal),7,6,0.0
+Oracle (Optimal),8,6,0.0
+Oracle (Optimal),9,6,0.0
+Oracle (Optimal),10,6,0.0
+Oracle (Optimal),1,7,6.643856189774724
+Oracle (Optimal),2,7,4.754887502163468
+Oracle (Optimal),3,7,2.807354922057604
+Oracle (Optimal),4,7,1.584962500721156
+Oracle (Optimal),5,7,0.0
+Oracle (Optimal),6,7,0.0
+Oracle (Optimal),7,7,0.0
+Oracle (Optimal),8,7,0.0
+Oracle (Optimal),9,7,0.0
+Oracle (Optimal),10,7,0.0
+Oracle (Optimal),1,8,6.643856189774724
+Oracle (Optimal),2,8,4.754887502163468
+Oracle (Optimal),3,8,2.321928094887362
+Oracle (Optimal),4,8,0.0
+Oracle (Optimal),5,8,0.0
+Oracle (Optimal),6,8,0.0
+Oracle (Optimal),7,8,0.0
+Oracle (Optimal),8,8,0.0
+Oracle (Optimal),9,8,0.0
+Oracle (Optimal),10,8,0.0
+Oracle (Optimal),1,9,6.643856189774724
+Oracle (Optimal),2,9,3.807354922057604
+Oracle (Optimal),3,9,1.0
+Oracle (Optimal),4,9,0.0
+Oracle (Optimal),5,9,0.0
+Oracle (Optimal),6,9,0.0
+Oracle (Optimal),7,9,0.0
+Oracle (Optimal),8,9,0.0
+Oracle (Optimal),9,9,0.0
+Oracle (Optimal),10,9,0.0
+Oracle (Optimal),1,10,6.643856189774724
+Oracle (Optimal),2,10,3.807354922057604
+Oracle (Optimal),3,10,0.0
+Oracle (Optimal),4,10,0.0
+Oracle (Optimal),5,10,0.0
+Oracle (Optimal),6,10,0.0
+Oracle (Optimal),7,10,0.0
+Oracle (Optimal),8,10,0.0
+Oracle (Optimal),9,10,0.0
+Oracle (Optimal),10,10,0.0
+Oracle (Optimal),1,11,6.643856189774724
+Oracle (Optimal),2,11,4.087462841250339
+Oracle (Optimal),3,11,1.584962500721156
+Oracle (Optimal),4,11,0.0
+Oracle (Optimal),5,11,0.0
+Oracle (Optimal),6,11,0.0
+Oracle (Optimal),7,11,0.0
+Oracle (Optimal),8,11,0.0
+Oracle (Optimal),9,11,0.0
+Oracle (Optimal),10,11,0.0
+Oracle (Optimal),1,12,6.643856189774724
+Oracle (Optimal),2,12,4.169925001442312
+Oracle (Optimal),3,12,2.0
+Oracle (Optimal),4,12,0.0
+Oracle (Optimal),5,12,0.0
+Oracle (Optimal),6,12,0.0
+Oracle (Optimal),7,12,0.0
+Oracle (Optimal),8,12,0.0
+Oracle (Optimal),9,12,0.0
+Oracle (Optimal),10,12,0.0
+Oracle (Optimal),1,13,6.643856189774724
+Oracle (Optimal),2,13,4.584962500721156
+Oracle (Optimal),3,13,3.169925001442312
+Oracle (Optimal),4,13,1.584962500721156
+Oracle (Optimal),5,13,0.0
+Oracle (Optimal),6,13,0.0
+Oracle (Optimal),7,13,0.0
+Oracle (Optimal),8,13,0.0
+Oracle (Optimal),9,13,0.0
+Oracle (Optimal),10,13,0.0
+Oracle (Optimal),1,14,6.643856189774724
+Oracle (Optimal),2,14,4.754887502163468
+Oracle (Optimal),3,14,2.321928094887362
+Oracle (Optimal),4,14,0.0
+Oracle (Optimal),5,14,0.0
+Oracle (Optimal),6,14,0.0
+Oracle (Optimal),7,14,0.0
+Oracle (Optimal),8,14,0.0
+Oracle (Optimal),9,14,0.0
+Oracle (Optimal),10,14,0.0
+Oracle (Optimal),1,15,6.643856189774724
+Oracle (Optimal),2,15,4.584962500721156
+Oracle (Optimal),3,15,2.0
+Oracle (Optimal),4,15,0.0
+Oracle (Optimal),5,15,0.0
+Oracle (Optimal),6,15,0.0
+Oracle (Optimal),7,15,0.0
+Oracle (Optimal),8,15,0.0
+Oracle (Optimal),9,15,0.0
+Oracle (Optimal),10,15,0.0
+Oracle (Optimal),1,16,6.643856189774724
+Oracle (Optimal),2,16,4.754887502163468
+Oracle (Optimal),3,16,2.321928094887362
+Oracle (Optimal),4,16,1.584962500721156
+Oracle (Optimal),5,16,0.0
+Oracle (Optimal),6,16,0.0
+Oracle (Optimal),7,16,0.0
+Oracle (Optimal),8,16,0.0
+Oracle (Optimal),9,16,0.0
+Oracle (Optimal),10,16,0.0
+Oracle (Optimal),1,17,6.643856189774724
+Oracle (Optimal),2,17,4.754887502163468
+Oracle (Optimal),3,17,2.321928094887362
+Oracle (Optimal),4,17,0.0
+Oracle (Optimal),5,17,0.0
+Oracle (Optimal),6,17,0.0
+Oracle (Optimal),7,17,0.0
+Oracle (Optimal),8,17,0.0
+Oracle (Optimal),9,17,0.0
+Oracle (Optimal),10,17,0.0
+Oracle (Optimal),1,18,6.643856189774724
+Oracle (Optimal),2,18,4.087462841250339
+Oracle (Optimal),3,18,2.321928094887362
+Oracle (Optimal),4,18,1.0
+Oracle (Optimal),5,18,0.0
+Oracle (Optimal),6,18,0.0
+Oracle (Optimal),7,18,0.0
+Oracle (Optimal),8,18,0.0
+Oracle (Optimal),9,18,0.0
+Oracle (Optimal),10,18,0.0
+Oracle (Optimal),1,19,6.643856189774724
+Oracle (Optimal),2,19,4.584962500721156
+Oracle (Optimal),3,19,2.321928094887362
+Oracle (Optimal),4,19,0.0
+Oracle (Optimal),5,19,0.0
+Oracle (Optimal),6,19,0.0
+Oracle (Optimal),7,19,0.0
+Oracle (Optimal),8,19,0.0
+Oracle (Optimal),9,19,0.0
+Oracle (Optimal),10,19,0.0
+Oracle (Optimal),1,20,6.643856189774724
+Oracle (Optimal),2,20,4.169925001442312
+Oracle (Optimal),3,20,2.321928094887362
+Oracle (Optimal),4,20,0.0
+Oracle (Optimal),5,20,0.0
+Oracle (Optimal),6,20,0.0
+Oracle (Optimal),7,20,0.0
+Oracle (Optimal),8,20,0.0
+Oracle (Optimal),9,20,0.0
+Oracle (Optimal),10,20,0.0
+Oracle (Optimal),1,21,6.643856189774724
+Oracle (Optimal),2,21,4.087462841250339
+Oracle (Optimal),3,21,2.321928094887362
+Oracle (Optimal),4,21,1.0
+Oracle (Optimal),5,21,0.0
+Oracle (Optimal),6,21,0.0
+Oracle (Optimal),7,21,0.0
+Oracle (Optimal),8,21,0.0
+Oracle (Optimal),9,21,0.0
+Oracle (Optimal),10,21,0.0
+Oracle (Optimal),1,22,6.643856189774724
+Oracle (Optimal),2,22,3.807354922057604
+Oracle (Optimal),3,22,2.0
+Oracle (Optimal),4,22,0.0
+Oracle (Optimal),5,22,0.0
+Oracle (Optimal),6,22,0.0
+Oracle (Optimal),7,22,0.0
+Oracle (Optimal),8,22,0.0
+Oracle (Optimal),9,22,0.0
+Oracle (Optimal),10,22,0.0
+Oracle (Optimal),1,23,6.643856189774724
+Oracle (Optimal),2,23,4.754887502163468
+Oracle (Optimal),3,23,2.321928094887362
+Oracle (Optimal),4,23,1.0
+Oracle (Optimal),5,23,0.0
+Oracle (Optimal),6,23,0.0
+Oracle (Optimal),7,23,0.0
+Oracle (Optimal),8,23,0.0
+Oracle (Optimal),9,23,0.0
+Oracle (Optimal),10,23,0.0
+Oracle (Optimal),1,24,6.643856189774724
+Oracle (Optimal),2,24,4.584962500721156
+Oracle (Optimal),3,24,2.0
+Oracle (Optimal),4,24,1.0
+Oracle (Optimal),5,24,0.0
+Oracle (Optimal),6,24,0.0
+Oracle (Optimal),7,24,0.0
+Oracle (Optimal),8,24,0.0
+Oracle (Optimal),9,24,0.0
+Oracle (Optimal),10,24,0.0
+Oracle (Optimal),1,25,6.643856189774724
+Oracle (Optimal),2,25,4.169925001442312
+Oracle (Optimal),3,25,2.321928094887362
+Oracle (Optimal),4,25,0.0
+Oracle (Optimal),5,25,0.0
+Oracle (Optimal),6,25,0.0
+Oracle (Optimal),7,25,0.0
+Oracle (Optimal),8,25,0.0
+Oracle (Optimal),9,25,0.0
+Oracle (Optimal),10,25,0.0
+Oracle (Optimal),1,26,6.643856189774724
+Oracle (Optimal),2,26,4.087462841250339
+Oracle (Optimal),3,26,2.0
+Oracle (Optimal),4,26,0.0
+Oracle (Optimal),5,26,0.0
+Oracle (Optimal),6,26,0.0
+Oracle (Optimal),7,26,0.0
+Oracle (Optimal),8,26,0.0
+Oracle (Optimal),9,26,0.0
+Oracle (Optimal),10,26,0.0
+Oracle (Optimal),1,27,6.643856189774724
+Oracle (Optimal),2,27,4.754887502163468
+Oracle (Optimal),3,27,2.807354922057604
+Oracle (Optimal),4,27,1.584962500721156
+Oracle (Optimal),5,27,0.0
+Oracle (Optimal),6,27,0.0
+Oracle (Optimal),7,27,0.0
+Oracle (Optimal),8,27,0.0
+Oracle (Optimal),9,27,0.0
+Oracle (Optimal),10,27,0.0
+Oracle (Optimal),1,28,6.643856189774724
+Oracle (Optimal),2,28,4.584962500721156
+Oracle (Optimal),3,28,3.169925001442312
+Oracle (Optimal),4,28,2.0
+Oracle (Optimal),5,28,0.0
+Oracle (Optimal),6,28,0.0
+Oracle (Optimal),7,28,0.0
+Oracle (Optimal),8,28,0.0
+Oracle (Optimal),9,28,0.0
+Oracle (Optimal),10,28,0.0
+Oracle (Optimal),1,29,6.643856189774724
+Oracle (Optimal),2,29,4.087462841250339
+Oracle (Optimal),3,29,2.321928094887362
+Oracle (Optimal),4,29,1.0
+Oracle (Optimal),5,29,0.0
+Oracle (Optimal),6,29,0.0
+Oracle (Optimal),7,29,0.0
+Oracle (Optimal),8,29,0.0
+Oracle (Optimal),9,29,0.0
+Oracle (Optimal),10,29,0.0
+Oracle (Optimal),1,30,6.643856189774724
+Oracle (Optimal),2,30,4.584962500721156
+Oracle (Optimal),3,30,3.169925001442312
+Oracle (Optimal),4,30,1.584962500721156
+Oracle (Optimal),5,30,0.0
+Oracle (Optimal),6,30,0.0
+Oracle (Optimal),7,30,0.0
+Oracle (Optimal),8,30,0.0
+Oracle (Optimal),9,30,0.0
+Oracle (Optimal),10,30,0.0
