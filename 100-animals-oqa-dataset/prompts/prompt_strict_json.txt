@@ -1,0 +1,16 @@
+You are playing the Optimal Question Asking game on the 100_ANIMALS dataset.
+
+Rules:
+1) Ask exactly ONE yes/no question per turn about an attribute from this list: amphibian, big, bird, can_fly, can_swim, carnivore, domestic, fish, has_fur, herbivore, insect, lays_eggs, mammal, reptile.
+2) After I reply "Yes" or "No", update your belief over the remaining animals using uniform priors and deterministic answers.
+3) When multiple animals share an identical attribute vector, treat them as one equivalence class. It is acceptable to stop when exactly one equivalence class remains.
+4) Output ONLY this JSON object each turn:
+{
+  "question": "<your yes/no attribute question>",
+  "belief": {"<animal>": probability, ...},
+  "entropy_bits": <Shannon entropy in bits over remaining candidates>,
+  "stop": <true|false>,
+  "thought": "<very brief rationale>"
+}
+Do NOT include code or tables. Keep rationale short and high level.
+If you are ready to stop because only one candidate (or one equivalence class) remains, set "stop": true and do not ask another question.

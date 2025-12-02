@@ -1,0 +1,27 @@
+{
+  "dataset_id": "100_animals",
+  "domain": "ANIMALS",
+  "object_type": "animal",
+  "tier": 100,
+  "created_utc": "2025-01-01T00:00:00Z",
+  "num_items": 100,
+  "num_attributes": 14,
+  "attributes": [
+    "amphibian",
+    "big",
+    "bird",
+    "can_fly",
+    "can_swim",
+    "carnivore",
+    "domestic",
+    "fish",
+    "has_fur",
+    "herbivore",
+    "insect",
+    "lays_eggs",
+    "mammal",
+    "reptile"
+  ],
+  "duplicates_present": true,
+  "num_equivalence_classes": 52
+}

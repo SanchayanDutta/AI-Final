@@ -1,0 +1,331 @@
+{
+  "attribute_order": [
+    "amphibian",
+    "big",
+    "bird",
+    "can_fly",
+    "can_swim",
+    "carnivore",
+    "domestic",
+    "fish",
+    "has_fur",
+    "herbivore",
+    "insect",
+    "lays_eggs",
+    "mammal",
+    "reptile"
+  ],
+  "num_items": 100,
+  "num_equivalence_classes": 52,
+  "num_classes_with_duplicates": 25,
+  "classes": [
+    {
+      "members": [
+        "cat"
+      ]
+    },
+    {
+      "members": [
+        "dog"
+      ]
+    },
+    {
+      "members": [
+        "lion"
+      ]
+    },
+    {
+      "members": [
+        "penguin"
+      ]
+    },
+    {
+      "members": [
+        "snake"
+      ]
+    },
+    {
+      "members": [
+        "bat"
+      ]
+    },
+    {
+      "members": [
+        "chicken"
+      ]
+    },
+    {
+      "members": [
+        "cow"
+      ]
+    },
+    {
+      "members": [
+        "raccoon"
+      ]
+    },
+    {
+      "members": [
+        "koala"
+      ]
+    },
+    {
+      "members": [
+        "flamingo"
+      ]
+    },
+    {
+      "members": [
+        "pelican"
+      ]
+    },
+    {
+      "members": [
+        "duck"
+      ]
+    },
+    {
+      "members": [
+        "swan"
+      ]
+    },
+    {
+      "members": [
+        "turkey"
+      ]
+    },
+    {
+      "members": [
+        "tortoise"
+      ]
+    },
+    {
+      "members": [
+        "turtle"
+      ]
+    },
+    {
+      "members": [
+        "clownfish"
+      ]
+    },
+    {
+      "members": [
+        "goldfish"
+      ]
+    },
+    {
+      "members": [
+        "ant"
+      ]
+    },
+    {
+      "members": [
+        "grasshopper"
+      ]
+    },
+    {
+      "members": [
+        "scorpion"
+      ]
+    },
+    {
+      "members": [
+        "sea_urchin"
+      ]
+    },
+    {
+      "members": [
+        "platypus"
+      ]
+    },
+    {
+      "members": [
+        "echidna"
+      ]
+    },
+    {
+      "members": [
+        "donkey"
+      ]
+    },
+    {
+      "members": [
+        "hamster"
+      ]
+    },
+    {
+      "members": [
+        "elephant",
+        "rhino"
+      ]
+    },
+    {
+      "members": [
+        "whale",
+        "walrus"
+      ]
+    },
+    {
+      "members": [
+        "shark",
+        "tuna",
+        "hammerhead_shark",
+        "manta_ray"
+      ]
+    },
+    {
+      "members": [
+        "eagle",
+        "hawk",
+        "vulture"
+      ]
+    },
+    {
+      "members": [
+        "crocodile",
+        "komodo_dragon"
+      ]
+    },
+    {
+      "members": [
+        "frog",
+        "salamander",
+        "newt",
+        "toad"
+      ]
+    },
+    {
+      "members": [
+        "kangaroo",
+        "deer",
+        "moose"
+      ]
+    },
+    {
+      "members": [
+        "cuttlefish",
+        "octopus",
+        "squid",
+        "jellyfish",
+        "crab",
+        "lobster"
+      ]
+    },
+    {
+      "members": [
+        "giraffe",
+        "panda",
+        "gorilla",
+        "zebra",
+        "camel"
+      ]
+    },
+    {
+      "members": [
+        "hippopotamus",
+        "buffalo"
+      ]
+    },
+    {
+      "members": [
+        "tiger",
+        "bear"
+      ]
+    },
+    {
+      "members": [
+        "goat",
+        "guinea_pig"
+      ]
+    },
+    {
+      "members": [
+        "horse",
+        "reindeer"
+      ]
+    },
+    {
+      "members": [
+        "monkey",
+        "mouse",
+        "squirrel",
+        "chimpanzee",
+        "lemur"
+      ]
+    },
+    {
+      "members": [
+        "otter",
+        "wolf"
+      ]
+    },
+    {
+      "members": [
+        "hedgehog",
+        "fox"
+      ]
+    },
+    {
+      "members": [
+        "sloth",
+        "porcupine"
+      ]
+    },
+    {
+      "members": [
+        "sparrow",
+        "parrot",
+        "peacock",
+        "pigeon"
+      ]
+    },
+    {
+      "members": [
+        "ostrich",
+        "emu"
+      ]
+    },
+    {
+      "members": [
+        "lizard",
+        "chameleon"
+      ]
+    },
+    {
+      "members": [
+        "salmon",
+        "eel",
+        "pufferfish"
+      ]
+    },
+    {
+      "members": [
+        "bee",
+        "beetle",
+        "butterfly",
+        "moth",
+        "cockroach"
+      ]
+    },
+    {
+      "members": [
+        "mosquito",
+        "dragonfly"
+      ]
+    },
+    {
+      "members": [
+        "spider",
+        "starfish"
+      ]
+    },
+    {
+      "members": [
+        "armadillo",
+        "seal",
+        "dolphin"
+      ]
+    }
+  ]
+}

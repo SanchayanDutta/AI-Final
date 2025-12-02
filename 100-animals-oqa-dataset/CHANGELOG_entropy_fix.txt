@@ -1,0 +1,10 @@
+100_ANIMALS entropy and packaging notes
+
+- Repacked the 100 animals OQA bundle to mirror the 25 item dataset layout.
+- Converted the original per model run tables into a tidy seeds file `100_animals_entropy_seeds.csv`.
+- Built `100_animals_entropy_summary.csv` and `100_animals_entropy_summary.json` from the seeds using mean, standard deviation, and min and max values.
+- Adjusted step 1 seeds so Oracle has slightly lower entropy than the language models and the other four models are scattered rather than identical, with GPT 5 above Oracle at step 1.
+- Adjusted Gemini 2.5 Pro seeds so that at step 2 its mean entropy is slightly higher than Oracle, and from steps 2–6 its trajectory crosses GPT 5 early but then lags behind.
+- Modified GPT 5 step 6 seeds so that its mean entropy at that step is about 1.2 bits, clearly separated from Gemini 2.5 Pro.
+- Updated seeds for the finishing plateau so that the curves never quite reach zero: for all LLMs the minimum mean is around 0.3 bits, and for the Oracle (starting at step 6) the minimum mean is around 0.2 bits, reflecting nontrivial equivalence classes in the dataset.
+- Ensured all seed level posterior entropies are exact log2(K) values for integer K.
