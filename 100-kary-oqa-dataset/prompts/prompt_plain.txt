@@ -1,4 +1,4 @@
-This is a k-ary attributes dataset with 300 abstract objects. I have a hidden item in mind.
+This is a k-ary attributes dataset with 100 abstract objects. I have a hidden item in mind.
 Ask questions about one attribute at a time from this list:
 color, shape, material, size, pattern, origin, use_case, energy.
 The answer will be a single value for that attribute, for example "red" or "triangle".
