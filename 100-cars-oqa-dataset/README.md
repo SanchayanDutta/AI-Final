@@ -1,4 +1,4 @@
-# 100-Cars OQA Dataset (Realistic)
+# 100-Cars OQA Dataset
 
 - **Items**: 100
 - **Equivalence classes**: 100. A run can resolve to a single item or a single class.
