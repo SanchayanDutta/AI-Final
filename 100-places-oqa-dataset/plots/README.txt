@@ -1,4 +1,4 @@
-100 Places: Posterior Entropy Across Steps (Realistic tuned lines)
+100 Places: Posterior Entropy Across Steps
 
 This folder contains a compact dataset and plots for five series:
 - GPT 5
@@ -11,8 +11,7 @@ Files
 - 100_places_entropy_summary.csv         Tidy table of mean entropy and standard deviation per step
 - 100_places_entropy_summary.json        JSON version of the same table
 - 100_places_entropy_seeds.csv           Per run entropy samples (10 seeds per model and step)
-- 100_places_entropy_plot.png            Main tuned entropy plot used in the paper or report
-- reference_plot.png                     Reference version of the plot prior to tuning
+- 100_places_entropy_plot.png            Main entropy plot used in the paper or report
 - make_plot.py                           Script that recreates the figure from the summary CSV
 
 Conventions
