@@ -2,8 +2,6 @@
 
 This package contains a 200 item k-ary OBJECTS attribute table and a set of
 posterior-entropy statistics for Optimal Question Asking (OQA) style evaluation.
-The layout mirrors the 300-object k-ary release and includes an exact
-information-theoretic oracle implemented via dynamic programming.
 
 ## Repository layout
 
