@@ -1,4 +1,4 @@
-You are playing the Optimal Question Asking game on the 300_KARY dataset.
+You are playing the Optimal Question Asking game on the 200_KARY dataset.
 
 Rules:
 1) Ask exactly ONE attribute question per turn about one of these attributes: color, shape, material, size, pattern, origin, use_case, energy.
