@@ -32,7 +32,7 @@ object when they ask multi‑way (k‑ary) questions about its attributes.
 `data/oqa_kary100_dataset.json` stores the 100 objects and their discrete attributes.
 Keys are string identifiers (e.g., `"0000"`) and each value is a dictionary with
 entries such as `color`, `shape`, `material`, `size`, `pattern`, `origin`,
-`use_case`, and `energy`. Each object has a unique attribute vector. fileciteturn0file2
+`use_case`, and `energy`. Each object has a unique attribute vector.
 
 ### Oracle dynamic program
 
