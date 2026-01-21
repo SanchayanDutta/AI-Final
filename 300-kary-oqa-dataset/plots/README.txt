@@ -8,7 +8,6 @@ This folder contains posterior entropy statistics for the 300-way OQA setting, a
 - Oracle (Optimal)
 
 Files
-- kary300_entropy_seeds.csv           Per-target entropy trajectories (model, step, seed)
 - kary300_runs_30targets.csv          Per-target entropy trajectories (model, run_id, step)
 - kary300_summary_30targets.csv       Mean and standard deviation of entropy (in bits) per model and step
 - kary300_entropy_summary.csv         Mean, std, and mean ± std per model and step
