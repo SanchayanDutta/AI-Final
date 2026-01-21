@@ -1,3 +1,1 @@
-You are playing a k-ary Optimal Question Asking (OQA) game on a hidden object from a 100-object dataset.
-Each turn, ask for the value of exactly one attribute (for example, color, shape, or material).
-Return only your next question each turn.
+Ask k-ary attribute questions to identify the hidden item. Return only your next question.
