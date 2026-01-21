@@ -23,7 +23,6 @@ This package contains a 100 item ANIMALS attribute table, prompts for running th
 │  ├─ prompt_strict_json.txt
 │  └─ prompt_system.txt
 ├─ metadata.json
-└─ CHANGELOG_entropy_fix.txt
 ```
 
 ## Data
