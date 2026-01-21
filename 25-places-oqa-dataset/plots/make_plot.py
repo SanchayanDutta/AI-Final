@@ -1,4 +1,3 @@
-# Auto-generated: fixed legend order and asymmetric error bars clipping at 0 if needed
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
