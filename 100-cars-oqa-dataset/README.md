@@ -32,7 +32,6 @@ while updating model names. The plot is reproducible with `plots/make_plot.py`.
 │  ├─ prompt_strict_json.txt
 │  └─ prompt_system.txt
 ├─ metadata.json
-├─ QA_REPORT.txt
 └─ README.md
 ```
 
@@ -54,7 +53,6 @@ while updating model names. The plot is reproducible with `plots/make_plot.py`.
 - `plots/100_cars_entropy_seeds.csv` per seed entropies for all models and steps.
 - `plots/100_cars_entropy_plot.png` line plot with error bars.
 - `plots/make_plot.py` script that recreates `100_cars_entropy_plot.png` from the CSV files.
-- `QA_REPORT.txt` compact JSON report checking the oracle lower envelope and standard deviation behavior.
 
 ## Game protocol
 
