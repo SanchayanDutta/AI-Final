@@ -57,7 +57,7 @@ Notes
 -----
 * The implementation memoizes the optimal cost for every candidate set
   that appears along the search tree, so the dynamic program is exact but
-  still practical for the 300-object dataset.
+  still practical for the 200-object dataset.
 * The same code works for any similar k-ary attributes table; you can plug
   in any ``items`` dictionary of the same format.
 
