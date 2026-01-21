@@ -21,7 +21,6 @@ object when they ask multi‑way (k‑ary) questions about its attributes.
 │  ├─ kary100_entropy_summary.csv
 │  ├─ kary100_entropy_summary.json
 │  ├─ kary100_entropy_plot.png
-│  ├─ oqa_kary100_entropy_plot_30targets_crossing.png
 │  └─ make_plot.py
 ├─ prompts/
 │  ├─ prompt_plain.txt
