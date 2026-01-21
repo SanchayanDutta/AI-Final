@@ -16,7 +16,6 @@ This package contains a 100-item PLACES attribute table and ready-to-use prompts
       │ ├─ 100_places_entropy_summary.json
       │ ├─ 100_places_entropy_seeds.csv
       │ ├─ 100_places_entropy_plot.png
-      │ ├─ reference_plot.png
       │ └─ make_plot.py
       ├─ prompts/
       │ ├─ prompt_plain.txt
