@@ -8,8 +8,6 @@
 - **Seeds**: 10 per model. Entropies in `*_seeds.csv` are exact `log2(k)` values. Summary means are true averages.
 - **Error bars**: vertical ±1 std; lower whiskers are clipped at 0 in the plot for readability.
 
-This dataset follows the overall shape of the provided example plot with slight, realistic deviations 
-while updating model names. The plot is reproducible with `plots/make_plot.py`.
 ## Repository layout
 
 ```
