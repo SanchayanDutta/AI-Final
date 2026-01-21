@@ -6,7 +6,7 @@ This module implements the *exact* dynamic program used for the Oracle
 
 The setting is:
 
-  * There is a finite set of discrete objects X (300 in the released dataset).
+  * There is a finite set of discrete objects X (200 in the released dataset).
   * Each object x in X is described by a dictionary of categorical attributes,
     for example the entries in ``kary200_Objects.json``.
   * At each step the oracle chooses a single attribute a (e.g., "color"),
@@ -49,7 +49,7 @@ How to use
    the first optimal query (step 2), and so on, until the candidate set
    cannot be split any further.
 
-4. If you sample 30 random targets from the 300 objects and average the
+4. If you sample 30 random targets from the 200 objects and average the
    per-step entropies returned by ``simulate_target``, you recover the
    Oracle trajectory shown in the k-ary 200-objects entropy figure.
 
@@ -301,7 +301,7 @@ def _try_demo_with_local_json():
     targets and reproducing the plot is left to the calling code.
     """
     # Expected relative location when this file lives in
-    #   300-kary-oqa-dataset/oracle/kary300_exact_oracle_dp.py
+    #   200-kary-oqa-dataset/oracle/kary200_exact_oracle_dp.py
     dataset_root = Path(__file__).resolve().parents[1]
     json_path = dataset_root / "data" / "kary200_Objects.json"
     if not json_path.exists():
