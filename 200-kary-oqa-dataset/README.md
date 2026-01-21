@@ -28,7 +28,9 @@ information-theoretic oracle implemented via dynamic programming.
 │  ├─ kary200_entropy_plot.png
 │  └─ make_plot.py
 ├─ prompts/
-│  └─ prompt_template_generic.txt
+│  ├─ prompt_plain.txt
+│  ├─ prompt_strict_json.txt
+│  └─ prompt_system.txt
 ├─ oracle/
 │  └─ kary200_exact_oracle_dp.py
 ├─ metadata.json
