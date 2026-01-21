@@ -54,7 +54,7 @@ while updating model names. The plot is reproducible with `plots/make_plot.py`.
 - `plots/100_cars_entropy_summary.json` JSON version of the same table plus a small metadata block.
 - `plots/100_cars_entropy_seeds.csv` per seed entropies for all models and steps.
 - `plots/100_cars_entropy_plot.png` line plot with error bars.
-- `plots/reference_plot.png` reference figure that the synthetic data closely tracks.
+- `plots/reference_plot.png` reference figure that the plot closely tracks.
 - `plots/make_plot.py` script that recreates `100_cars_entropy_plot.png` from the CSV files.
 - `QA_REPORT.txt` compact JSON report checking the oracle lower envelope and standard deviation behavior.
 
