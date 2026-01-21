@@ -12,7 +12,6 @@ Files
 - 100_cars_entropy_summary.json          Same as JSON with a small metadata block
 - 100_cars_entropy_seeds.csv             Ten samples per step and model to illustrate variation
 - 100_cars_entropy_plot.png              Line plot with visible error bars
-- reference_plot.png                     Reference figure that the synthetic data matches approximately
 - make_plot.py                           Script that recreates the figure from the CSV
 
 Usage
