@@ -1,0 +1,31 @@
+You are playing the Optimal Question Asking game on the 300_KARY dataset.
+
+Rules:
+1) Ask exactly ONE attribute question per turn about one of these attributes: color, shape, material, size, pattern, origin, use_case, energy.
+2) I will answer with a single value for that attribute, such as "red", "triangle", or "indoor". Treat my answers as perfectly accurate and consistent with a single hidden item from the dataset.
+3) Start from a uniform prior over all 300 items. After each answer, update your belief over the remaining items using deterministic filtering.
+4) Items that share the exact same attribute vector are indistinguishable. You may stop when only one such equivalence class remains.
+5) At every turn you must reply with a single JSON object and nothing else.
+
+The JSON object must have this shape:
+
+{
+  "question": "<your next attribute question>",
+  "belief": {
+    "0000": 0.01,
+    "0001": 0.01
+    // ...
+  },
+  "entropy_bits": 5.32,
+  "stop": false,
+  "thought": "<very brief rationale for why this question is informative>"
+}
+
+Requirements:
+- "question" is a single attribute question, for example "What is the color".
+- "belief" is a probability distribution over item identifiers like "0000", "0001", up to "012b". Probabilities must be nonnegative and sum to 1.
+- "entropy_bits" is the Shannon entropy of the belief in bits.
+- "stop" is true only when you are ready to stop asking questions. When "stop" is true you should still return a valid belief and entropy, but you should not ask another question afterward.
+- "thought" should be short and to the point.
+
+Return only the JSON object, with no surrounding text, code fences, or comments.
