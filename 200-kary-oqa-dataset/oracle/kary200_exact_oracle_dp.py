@@ -22,15 +22,9 @@ questions* needed to isolate the true object (or an equivalence class of
 indistinguishable objects, if attribute vectors are not unique).  This is
 equivalent to maximizing expected information gain at each step.
 
-The dynamic program below is an exact solver for that problem.  It
-generalizes the binary yes/no DP in Algorithm 1 of the NeurIPS paper
-"Active Inference as Bilevel Optimization and Benchmarking Optimal
-Question Asking in Frontier LLMs" to k-ary attributes by allowing each
-query to branch into more than two child states.
-
 How to use
 ----------
-1. Load the 300-object JSON file into a Python dictionary:
+1. Load the 200-object JSON file into a Python dictionary:
 
        import json
        with open("data/kary200_Objects.json", "r") as f:
@@ -41,7 +35,7 @@ How to use
 
 2. Build the oracle:
 
-       from oracle.kary300_exact_oracle_dp import KaryOracleDP
+       from oracle.kary200_exact_oracle_dp import KaryOracleDP
        oracle = KaryOracleDP(items)
 
 3. Run the oracle for a single hidden target to obtain the posterior
