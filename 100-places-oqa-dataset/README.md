@@ -23,7 +23,6 @@ This package contains a 100-item PLACES attribute table and ready-to-use prompts
       │ ├─ prompt_strict_json.txt
       │ └─ prompt_system.txt
       ├─ metadata.json
-      ├─ QA_REPORT.txt
       └─ README.md
 
 ## Contents
@@ -40,7 +39,6 @@ This package contains a 100-item PLACES attribute table and ready-to-use prompts
 - `plots/100_places_entropy_summary.json` - JSON version of the same table plus a small metadata block.
 - `plots/100_places_entropy_seeds.csv` - per-turn samples for variation analysis (5 models × 8 steps × 10 seeds = 400 rows).
 - `plots/100_places_entropy_plot.png` - line plot with error bars.
-- `plots/reference_plot.png` - original reference figure that the 100-item entropy curves roughly follow.
 - `plots/make_plot.py` - script that recreates the main entropy figure from the CSV.
 
 ## Game protocol
