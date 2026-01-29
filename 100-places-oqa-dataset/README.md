@@ -69,3 +69,7 @@ This package contains a 100-item PLACES attribute table and ready-to-use prompts
 ```bash
 cd plots
 python make_plot.py
+
+## Technical note
+
+For the API experiments, the APIs were accessed on 16 November 2025.
