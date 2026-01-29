@@ -97,3 +97,7 @@ python make_plot.py
 
 All files are plain text (JSON or CSV) and require only standard Python
 scientific libraries (NumPy, pandas, Matplotlib) to manipulate.
+
+## Technical note
+
+For the API experiments, the APIs were accessed on 16 November 2025.
