@@ -70,3 +70,7 @@ This package contains a 25-item ANIMALS attribute table and ready-to-use prompts
 cd plots
 python make_plot.py
 ```
+
+## Technical note
+
+For the API experiments, the APIs were accessed on 16 November 2025.
