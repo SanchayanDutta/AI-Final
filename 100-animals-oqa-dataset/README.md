@@ -57,3 +57,7 @@ The three files in `prompts` are ready to drop into an API call. The plain promp
 ## Plot bundle
 
 The `plots` folder contains tidy entropy tables and a figure for five series: GPT 5, Gemini 2.5 Pro, Claude Sonnet 4.5, Grok 4, and Oracle. The seeds file stores per run posterior entropies. The summary file aggregates these runs into means, standard deviations, and extrema for each step.
+
+## Technical note
+
+For the API experiments, the APIs were accessed on 16 November 2025.
