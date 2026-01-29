@@ -70,3 +70,7 @@ This package contains a 25-item CARS attribute table and ready-to-use prompts fo
 cd plots
 python make_plot.py
 ```
+
+## Technical note
+
+For the API experiments, the APIs were accessed on 16 November 2025.
