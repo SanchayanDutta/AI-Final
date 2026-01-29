@@ -61,6 +61,10 @@ This package contains a 100-item PLACES attribute table and ready-to-use prompts
    - Feed the answer back to the model.
    - Stop when only one candidate or one equivalence class remains.
 
+## Technical note
+
+For the API experiments, the APIs were accessed on 16 November 2025.
+
 ## Plot bundle usage
 - The figure `plots/100_places_entropy_plot.png` visualizes entropy in bits across steps for five series: GPT 5, Gemini 2.5 Pro, Claude Sonnet 4.5, Grok 4, and Oracle.
 - The CSV in `plots/100_places_entropy_summary.csv` drives the plot, and `plots/100_places_entropy_seeds.csv` contains the underlying per run samples.
@@ -69,7 +73,3 @@ This package contains a 100-item PLACES attribute table and ready-to-use prompts
 ```bash
 cd plots
 python make_plot.py
-
-## Technical note
-
-For the API experiments, the APIs were accessed on 16 November 2025.
